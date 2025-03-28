@@ -1,0 +1,570 @@
+word,label,text
+tulburată,simplu,"După ce Ron aproape că moare bând mied otrăvit, care aparent era destinat profesorului Dumbledore, Hermione este atât de tulburată, încât pune capăt conflictului lor pentru totdeauna."
+conflictului,simplu,"După ce Ron aproape că moare bând mied otrăvit, care aparent era destinat profesorului Dumbledore, Hermione este atât de tulburată, încât pune capăt conflictului lor pentru totdeauna."
+oratorie,simplu,"După război, Hitler a rămas în armată și, după ce a primit cursuri de informații și oratorie, a devenit ofițer de informații însărcinat cu infiltrarea în partidele politice și cu raportarea către superiorii săi cu privire la activitățile acestora."
+infiltrarea,simplu,"După război, Hitler a rămas în armată și, după ce a primit cursuri de informații și oratorie, a devenit ofițer de informații însărcinat cu infiltrarea în partidele politice și cu raportarea către superiorii săi cu privire la activitățile acestora."
+raportarea,simplu,"După război, Hitler a rămas în armată și, după ce a primit cursuri de informații și oratorie, a devenit ofițer de informații însărcinat cu infiltrarea în partidele politice și cu raportarea către superiorii săi cu privire la activitățile acestora."
+nucleofilele,complex,"Toate celelalte lucruri rămânând fel, nucleofilele sunt, în general, comparate între ele în ceea ce privește reactivitatea relativă."
+comparate,simplu,"Toate celelalte lucruri rămânând fel, nucleofilele sunt, în general, comparate între ele în ceea ce privește reactivitatea relativă."
+relativă,simplu,"Toate celelalte lucruri rămânând fel, nucleofilele sunt, în general, comparate între ele în ceea ce privește reactivitatea relativă."
+frecare,foarte familiar,"De asemenea, coeficientul de frecare variază foarte mult în funcție de care sunt cele două substanțe aflate în contact, precum și de temperatura și netezimea celor două substanțe."
+variază,simplu,"De asemenea, coeficientul de frecare variază foarte mult în funcție de care sunt cele două substanțe aflate în contact, precum și de temperatura și netezimea celor două substanțe."
+netezimea,simplu,"De asemenea, coeficientul de frecare variază foarte mult în funcție de care sunt cele două substanțe aflate în contact, precum și de temperatura și netezimea celor două substanțe."
+sistematic,simplu,"Deși necesită disciplină, este extrem de important să se lucreze sistematic în sens invers în timp prin lista de registre, epuizând toate sursele pentru fiecare persoană, înainte de a se ocupa de părinții și bunicii acestora."
+invers,simplu,"Deși necesită disciplină, este extrem de important să se lucreze sistematic în sens invers în timp prin lista de registre, epuizând toate sursele pentru fiecare persoană, înainte de a se ocupa de părinții și bunicii acestora."
+epuizând,simplu,"Deși necesită disciplină, este extrem de important să se lucreze sistematic în sens invers în timp prin lista de registre, epuizând toate sursele pentru fiecare persoană, înainte de a se ocupa de părinții și bunicii acestora."
+cadre,simplu,"Deși unele cadre sunt prevăzute cu trei orificii pentru știfturile de poziționare, unele frâne funcționează doar într-o anumită poziție, așa că, în timpul dezasamblării, trebuie să rețineți ce orificii au fost folosite."
+orificii,foarte familiar,"Deși unele cadre sunt prevăzute cu trei orificii pentru știfturile de poziționare, unele frâne funcționează doar într-o anumită poziție, așa că, în timpul dezasamblării, trebuie să rețineți ce orificii au fost folosite."
+frâne,foarte familiar,"Deși unele cadre sunt prevăzute cu trei orificii pentru știfturile de poziționare, unele frâne funcționează doar într-o anumită poziție, așa că, în timpul dezasamblării, trebuie să rețineți ce orificii au fost folosite."
+principale,simplu,"Deși evreii au fost țintele principale și sunt victimele despre care auzim cel mai des atunci când vorbim despre Holocaust, ei nu au fost singurele victime."
+auzim,foarte familiar,"Deși evreii au fost țintele principale și sunt victimele despre care auzim cel mai des atunci când vorbim despre Holocaust, ei nu au fost singurele victime."
+vorbim,foarte familiar,"Deși evreii au fost țintele principale și sunt victimele despre care auzim cel mai des atunci când vorbim despre Holocaust, ei nu au fost singurele victime."
+tehnologii,simplu,"Printre aceste tehnologii se număra fisiunea nucleară, care constă în divizarea unui atom foarte electronegativ în atomi mai mici și care produce o energie de zece ori mai mare."
+nucleară,simplu,"Printre aceste tehnologii se număra fisiunea nucleară, care constă în divizarea unui atom foarte electronegativ în atomi mai mici și care produce o energie de zece ori mai mare."
+electronegativ,complex,"Printre aceste tehnologii se număra fisiunea nucleară, care constă în divizarea unui atom foarte electronegativ în atomi mai mici și care produce o energie de zece ori mai mare."
+ingenios,simplu,"Un alfabet ingenios le-a permis mayașilor să înregistreze informații pe monumentele și templele lor, oferindu-le antropologilor o modalitate excelentă de a afla mai multe despre viața și cultura mayașă."
+antropologilor,simplu,"Un alfabet ingenios le-a permis mayașilor să înregistreze informații pe monumentele și templele lor, oferindu-le antropologilor o modalitate excelentă de a afla mai multe despre viața și cultura mayașă."
+excelentă,foarte familiar,"Un alfabet ingenios le-a permis mayașilor să înregistreze informații pe monumentele și templele lor, oferindu-le antropologilor o modalitate excelentă de a afla mai multe despre viața și cultura mayașă."
+ocupă,simplu,"O altă carte tratează Cascading Style Sheets (CSS) care se ocupă de aspectul general și de stilizare, dar cartea de față abordează pe scurt CSS."
+general,simplu,"O altă carte tratează Cascading Style Sheets (CSS) care se ocupă de aspectul general și de stilizare, dar cartea de față abordează pe scurt CSS."
+abordează,simplu,"O altă carte tratează Cascading Style Sheets (CSS) care se ocupă de aspectul general și de stilizare, dar cartea de față abordează pe scurt CSS."
+numi,simplu,"În calitate de guvernator, a urmat o politică atât de strictă de a numi în funcții doar colegi republicani, încât a devenit părintele sistemului de favoruri din America."
+părintele,simplu,"În calitate de guvernator, a urmat o politică atât de strictă de a numi în funcții doar colegi republicani, încât a devenit părintele sistemului de favoruri din America."
+favoruri,simplu,"În calitate de guvernator, a urmat o politică atât de strictă de a numi în funcții doar colegi republicani, încât a devenit părintele sistemului de favoruri din America."
+variază,simplu,"Ca adjective, terminațiile lor variază în funcție de substantivele pe care le modifică."
+funcție,simplu,"Ca adjective, terminațiile lor variază în funcție de substantivele pe care le modifică."
+substantivele,simplu,"Ca adjective, terminațiile lor variază în funcție de substantivele pe care le modifică."
+parabolic,simplu,"Deoarece un singur reflector parabolic atinge o precizie de focalizare mai mare decât orice banc mai mare de oglinzi, focalizarea este folosită pentru a atinge o temperatură mai ridicată, ceea ce permite o conversie foarte eficientă a căldurii în energie mecanică pentru a acționa un generator electric."
+precizie,simplu,"Deoarece un singur reflector parabolic atinge o precizie de focalizare mai mare decât orice banc mai mare de oglinzi, focalizarea este folosită pentru a atinge o temperatură mai ridicată, ceea ce permite o conversie foarte eficientă a căldurii în energie mecanică pentru a acționa un generator electric."
+focalizare,simplu,"Deoarece un singur reflector parabolic atinge o precizie de focalizare mai mare decât orice banc mai mare de oglinzi, focalizarea este folosită pentru a atinge o temperatură mai ridicată, ceea ce permite o conversie foarte eficientă a căldurii în energie mecanică pentru a acționa un generator electric."
+regină,foarte familiar,"Pe lângă faptul că a fost regină a Regatului Unit al Marii Britanii și Irlandei, a fost și primul monarh care a folosit titlul de Împărăteasă a Indiei."
+monarh,simplu,"Pe lângă faptul că a fost regină a Regatului Unit al Marii Britanii și Irlandei, a fost și primul monarh care a folosit titlul de Împărăteasă a Indiei."
+titlul,simplu,"Pe lângă faptul că a fost regină a Regatului Unit al Marii Britanii și Irlandei, a fost și primul monarh care a folosit titlul de Împărăteasă a Indiei."
+tonerul,foarte familiar,"La sfârșitul secvenței, o racletă îndepărtează tonerul rămas pe tambur și întregul proces se repetă cu o nouă imagine."
+tambur,simplu,"La sfârșitul secvenței, o racletă îndepărtează tonerul rămas pe tambur și întregul proces se repetă cu o nouă imagine."
+repetă,foarte familiar,"La sfârșitul secvenței, o racletă îndepărtează tonerul rămas pe tambur și întregul proces se repetă cu o nouă imagine."
+anionice,nu cunosc,"Atașarea la fibră este atribuită, cel puțin parțial, formării de săruri între grupele anionice din coloranți și grupele cationice din fibră."
+cationice,nu cunosc,"Atașarea la fibră este atribuită, cel puțin parțial, formării de săruri între grupele anionice din coloranți și grupele cationice din fibră."
+fibră,simplu,"Atașarea la fibră este atribuită, cel puțin parțial, formării de săruri între grupele anionice din coloranți și grupele cationice din fibră."
+împerechere,simplu,"Din cauza faptului că aparatul său de împerechere este ghimpat, asemănător cu acul unei lucrătoare, acesta va fi smuls din corpul său după împerechere, iar el va cădea spre pământ cu singurul rezultat posibil: moartea."
+acul,foarte familiar,"Din cauza faptului că aparatul său de împerechere este ghimpat, asemănător cu acul unei lucrătoare, acesta va fi smuls din corpul său după împerechere, iar el va cădea spre pământ cu singurul rezultat posibil: moartea."
+smuls,foarte familiar,"Din cauza faptului că aparatul său de împerechere este ghimpat, asemănător cu acul unei lucrătoare, acesta va fi smuls din corpul său după împerechere, iar el va cădea spre pământ cu singurul rezultat posibil: moartea."
+lexicul,simplu,"Pe lângă lexicul nou, ar trebui să vă uitați și la modul în care se conjugă verbele în funcție de subiectul propoziției."
+conjugă,simplu,"Pe lângă lexicul nou, ar trebui să vă uitați și la modul în care se conjugă verbele în funcție de subiectul propoziției."
+verbele,simplu,"Pe lângă lexicul nou, ar trebui să vă uitați și la modul în care se conjugă verbele în funcție de subiectul propoziției."
+intensiv,simplu,"Ambele utilizează intensiv funcțiile matematice pentru a descrie și a prezice fenomene fizice care sunt supuse unor schimbări continue, iar acest lucru necesită utilizarea analizei matematice."
+descrie,simplu,"Ambele utilizează intensiv funcțiile matematice pentru a descrie și a prezice fenomene fizice care sunt supuse unor schimbări continue, iar acest lucru necesită utilizarea analizei matematice."
+prezice,simplu,"Ambele utilizează intensiv funcțiile matematice pentru a descrie și a prezice fenomene fizice care sunt supuse unor schimbări continue, iar acest lucru necesită utilizarea analizei matematice."
+popularea,simplu,"Oficialii britanici din domeniul comerțului au considerat că prima prioritate era popularea zonelor recent securizate din Canada și Florida (cu referire la Tratatul de la Paris), unde se putea aștepta în mod rezonabil ca coloniștii să facă comerț cu patria mamă."
+securizate,simplu,"Oficialii britanici din domeniul comerțului au considerat că prima prioritate era popularea zonelor recent securizate din Canada și Florida (cu referire la Tratatul de la Paris), unde se putea aștepta în mod rezonabil ca coloniștii să facă comerț cu patria mamă."
+coloniștii,simplu,"Oficialii britanici din domeniul comerțului au considerat că prima prioritate era popularea zonelor recent securizate din Canada și Florida (cu referire la Tratatul de la Paris), unde se putea aștepta în mod rezonabil ca coloniștii să facă comerț cu patria mamă."
+accentul,simplu,"Budismul și jainismul au multe teme și practici comune, inclusiv accentul pus pe nonviolență și credința că se ajunge la eliberare prin renunțarea la legăturile lumești care îi leagă pe indivizi de iluzie prin procesul de karma, acumularea de merite bune și rele."
+eliberare,complex,"Budismul și jainismul au multe teme și practici comune, inclusiv accentul pus pe nonviolență și credința că se ajunge la eliberare prin renunțarea la legăturile lumești care îi leagă pe indivizi de iluzie prin procesul de karma, acumularea de merite bune și rele."
+acumularea,simplu,"Budismul și jainismul au multe teme și practici comune, inclusiv accentul pus pe nonviolență și credința că se ajunge la eliberare prin renunțarea la legăturile lumești care îi leagă pe indivizi de iluzie prin procesul de karma, acumularea de merite bune și rele."
+francate,simplu,"Până în anii 1960, tot mai multe trimiteri poștale erau francate cu masini de francat decât cu timbre adezive tradiționale."
+masini,foarte familiar,"Până în anii 1960, tot mai multe trimiteri poștale erau francate cu masini de francat decât cu timbre adezive tradiționale."
+adezive,simplu,"Până în anii 1960, tot mai multe trimiteri poștale erau francate cu masini de francat decât cu timbre adezive tradiționale."
+capacitanțe,simplu,Calcularea unor astfel de capacitanțe și exploatarea sau luarea măsurilor necesare pentru a le contracara reprezintă o problemă importantă în ingineria circuitelor electrice.
+contracara,simplu,Calcularea unor astfel de capacitanțe și exploatarea sau luarea măsurilor necesare pentru a le contracara reprezintă o problemă importantă în ingineria circuitelor electrice.
+electrice,simplu,Calcularea unor astfel de capacitanțe și exploatarea sau luarea măsurilor necesare pentru a le contracara reprezintă o problemă importantă în ingineria circuitelor electrice.
+amănunțit,simplu,"Capitolul al doilea investighează această legătură puțin mai amănunțit, discutând gimnastica mentală a rezolvării problemelor."
+discutând,simplu,"Capitolul al doilea investighează această legătură puțin mai amănunțit, discutând gimnastica mentală a rezolvării problemelor."
+gimnastica,foarte familiar,"Capitolul al doilea investighează această legătură puțin mai amănunțit, discutând gimnastica mentală a rezolvării problemelor."
+susținătorii,foarte familiar,"Încurajat de susținătorii din sud (mulți dintre ei i-au trimis lui Brooks bastoane noi, în semn de aprobare a acțiunilor sale), s-a întors după o realegere răsunătoare."
+dintre,foarte familiar,"Încurajat de susținătorii din sud (mulți dintre ei i-au trimis lui Brooks bastoane noi, în semn de aprobare a acțiunilor sale), s-a întors după o realegere răsunătoare."
+răsunătoare,simplu,"Încurajat de susținătorii din sud (mulți dintre ei i-au trimis lui Brooks bastoane noi, în semn de aprobare a acțiunilor sale), s-a întors după o realegere răsunătoare."
+descărca,simplu,Faceți clic pe butonul MAC sau WIN atașat pentru a descărca fișierul font zipuit.
+font,foarte familiar,Faceți clic pe butonul MAC sau WIN atașat pentru a descărca fișierul font zipuit.
+zipuit,simplu,Faceți clic pe butonul MAC sau WIN atașat pentru a descărca fișierul font zipuit.
+atribuită,simplu,"Configurația poate fi, de asemenea, atribuită pe baza pur empirică a activității optice."
+pur,simplu,"Configurația poate fi, de asemenea, atribuită pe baza pur empirică a activității optice."
+empirică,simplu,"Configurația poate fi, de asemenea, atribuită pe baza pur empirică a activității optice."
+egal,foarte familiar,"În prezent, un loc este egal cu aproximativ 600 000 de alegători."
+aproximativ,simplu,"În prezent, un loc este egal cu aproximativ 600 000 de alegători."
+alegători,simplu,"În prezent, un loc este egal cu aproximativ 600 000 de alegători."
+Fonturile,simplu,"Fonturile decorative sunt mai potrivite pentru caractere de afișare (mai mari de 14 puncte), în timp ce caracterele mai simple sunt mai potrivite pentru text (mai puțin de 14 puncte)."
+potrivite,foarte familiar,"Fonturile decorative sunt mai potrivite pentru caractere de afișare (mai mari de 14 puncte), în timp ce caracterele mai simple sunt mai potrivite pentru text (mai puțin de 14 puncte)."
+simple,foarte familiar,"Fonturile decorative sunt mai potrivite pentru caractere de afișare (mai mari de 14 puncte), în timp ce caracterele mai simple sunt mai potrivite pentru text (mai puțin de 14 puncte)."
+moderată,simplu,"În ciuda acestui fapt, putem vedea că există încă o anumită interacțiune între Dumbledore și McGonagall, McGonagall fiind o influență moderată asupra tuturor părților, în timp ce manifestă o loialitate fermă față de Dumbledore."
+loialitate,simplu,"În ciuda acestui fapt, putem vedea că există încă o anumită interacțiune între Dumbledore și McGonagall, McGonagall fiind o influență moderată asupra tuturor părților, în timp ce manifestă o loialitate fermă față de Dumbledore."
+fermă,complex,"În ciuda acestui fapt, putem vedea că există încă o anumită interacțiune între Dumbledore și McGonagall, McGonagall fiind o influență moderată asupra tuturor părților, în timp ce manifestă o loialitate fermă față de Dumbledore."
+comedii,foarte familiar,"Au fost produse drame, comedii și toate celelalte forme de divertisment, precum și emisiuni de știri și muzică."
+divertisment,simplu,"Au fost produse drame, comedii și toate celelalte forme de divertisment, precum și emisiuni de știri și muzică."
+emisiuni,simplu,"Au fost produse drame, comedii și toate celelalte forme de divertisment, precum și emisiuni de știri și muzică."
+găurire,foarte familiar,Scoateți-le prin găurire folosind o viteză foarte mică de găurire sau utilizați o unealtă de extragere a șuruburilor pentru șuruburile blocate.
+unealtă,foarte familiar,Scoateți-le prin găurire folosind o viteză foarte mică de găurire sau utilizați o unealtă de extragere a șuruburilor pentru șuruburile blocate.
+blocate,foarte familiar,Scoateți-le prin găurire folosind o viteză foarte mică de găurire sau utilizați o unealtă de extragere a șuruburilor pentru șuruburile blocate.
+parteneri,foarte familiar,Fiecare parte și-a determinat noii parteneri să se alăture prin oferirea de concesii teritoriale.
+alăture,simplu,Fiecare parte și-a determinat noii parteneri să se alăture prin oferirea de concesii teritoriale.
+oferirea,simplu,Fiecare parte și-a determinat noii parteneri să se alăture prin oferirea de concesii teritoriale.
+numărul,foarte familiar,"În fiecare an, numărul de membri ai acestui club crește, iar nevoia de lideri de grupuri mici, cunoscuți și sub numele de Facilitatori de nucleu, în cămine crește și ea."
+membri,simplu,"În fiecare an, numărul de membri ai acestui club crește, iar nevoia de lideri de grupuri mici, cunoscuți și sub numele de Facilitatori de nucleu, în cămine crește și ea."
+cămine,simplu,"În fiecare an, numărul de membri ai acestui club crește, iar nevoia de lideri de grupuri mici, cunoscuți și sub numele de Facilitatori de nucleu, în cămine crește și ea."
+zoom,foarte familiar,"Lentilele cu zoom motorizate, controlate electronic, sunt amplasate atât pe cameră, cât și pe proiector și sunt sincronizate între ele, astfel încât ambele lentile să mărească împreună și la aceeași distanță focală în orice moment."
+motorizate,simplu,"Lentilele cu zoom motorizate, controlate electronic, sunt amplasate atât pe cameră, cât și pe proiector și sunt sincronizate între ele, astfel încât ambele lentile să mărească împreună și la aceeași distanță focală în orice moment."
+focală,complex,"Lentilele cu zoom motorizate, controlate electronic, sunt amplasate atât pe cameră, cât și pe proiector și sunt sincronizate între ele, astfel încât ambele lentile să mărească împreună și la aceeași distanță focală în orice moment."
+gradienții,complex,"Condițiile de mediu, cum ar fi curentul sau gradienții de temperatură face ca bula să se separe, determinând formarea a două bule care conțin concentrații similare de materiale."
+bula,foarte familiar,"Condițiile de mediu, cum ar fi curentul sau gradienții de temperatură face ca bula să se separe, determinând formarea a două bule care conțin concentrații similare de materiale."
+separe,simplu,"Condițiile de mediu, cum ar fi curentul sau gradienții de temperatură face ca bula să se separe, determinând formarea a două bule care conțin concentrații similare de materiale."
+continuat,foarte familiar,"Patriot ca întotdeauna, Laurens a continuat să își servească națiunea ca unul dintre cei trei reprezentanți selectați pentru a negocia condițiile la Conferința de pace de la Paris din 1782."
+selectați,simplu,"Patriot ca întotdeauna, Laurens a continuat să își servească națiunea ca unul dintre cei trei reprezentanți selectați pentru a negocia condițiile la Conferința de pace de la Paris din 1782."
+negocia,simplu,"Patriot ca întotdeauna, Laurens a continuat să își servească națiunea ca unul dintre cei trei reprezentanți selectați pentru a negocia condițiile la Conferința de pace de la Paris din 1782."
+pregăti,simplu,Tot ceea ce studiați este conceput pentru a vă pregăti pentru sinteze organice și alte transformări chimice efectuate în laborator.
+transformări,simplu,Tot ceea ce studiați este conceput pentru a vă pregăti pentru sinteze organice și alte transformări chimice efectuate în laborator.
+efectuate,simplu,Tot ceea ce studiați este conceput pentru a vă pregăti pentru sinteze organice și alte transformări chimice efectuate în laborator.
+contribuie,simplu,Exercițiile și secțiunile de recapitulare contribuie în mod ideal la un model de repetiție conceput.
+ideal,simplu,Exercițiile și secțiunile de recapitulare contribuie în mod ideal la un model de repetiție conceput.
+repetiție,simplu,Exercițiile și secțiunile de recapitulare contribuie în mod ideal la un model de repetiție conceput.
+deshidratat,simplu,"Liniile rigide sunt adesea realizate pentru a fi presurizate cu azot sau aer deshidratat, care asigură un dielectric excelent chiar și la temperaturile ridicate generate de mii de wați de energie RF, în special în timpul căldurii intense de vară și a soarelui."
+wați,simplu,"Liniile rigide sunt adesea realizate pentru a fi presurizate cu azot sau aer deshidratat, care asigură un dielectric excelent chiar și la temperaturile ridicate generate de mii de wați de energie RF, în special în timpul căldurii intense de vară și a soarelui."
+intense,simplu,"Liniile rigide sunt adesea realizate pentru a fi presurizate cu azot sau aer deshidratat, care asigură un dielectric excelent chiar și la temperaturile ridicate generate de mii de wați de energie RF, în special în timpul căldurii intense de vară și a soarelui."
+crede,foarte familiar,"El crede că ei exprimă aceleași preocupări pe care le simte și el, dar într-un mod diferit, și că este obligat moral să îi tolereze pentru că sunt mai slabi decât el."
+moral,simplu,"El crede că ei exprimă aceleași preocupări pe care le simte și el, dar într-un mod diferit, și că este obligat moral să îi tolereze pentru că sunt mai slabi decât el."
+tolereze,simplu,"El crede că ei exprimă aceleași preocupări pe care le simte și el, dar într-un mod diferit, și că este obligat moral să îi tolereze pentru că sunt mai slabi decât el."
+prestigioasa,simplu,"A avut un dosar de serviciu exemplar și a primit prestigioasa Cruce de Fier, atât de clasa I, cât și de clasa a II-a, și a obținut, de asemenea, gradul nedistins de caporal."
+gradul,complex,"A avut un dosar de serviciu exemplar și a primit prestigioasa Cruce de Fier, atât de clasa I, cât și de clasa a II-a, și a obținut, de asemenea, gradul nedistins de caporal."
+nedistins,simplu,"A avut un dosar de serviciu exemplar și a primit prestigioasa Cruce de Fier, atât de clasa I, cât și de clasa a II-a, și a obținut, de asemenea, gradul nedistins de caporal."
+droguri,foarte familiar,"De asemenea, a fost responsabil de contrabandă cu droguri și de crime și a mituit atât poliția, cât și politicieni importanți."
+mituit,simplu,"De asemenea, a fost responsabil de contrabandă cu droguri și de crime și a mituit atât poliția, cât și politicieni importanți."
+poliția,foarte familiar,"De asemenea, a fost responsabil de contrabandă cu droguri și de crime și a mituit atât poliția, cât și politicieni importanți."
+spidering,complex,"Un model de spidering intens poate duce la blocarea accesului la site, cu prejudicii, a spider-ului sau a IP-ului dumneavoastră."
+blocarea,foarte familiar,"Un model de spidering intens poate duce la blocarea accesului la site, cu prejudicii, a spider-ului sau a IP-ului dumneavoastră."
+prejudicii,complex,"Un model de spidering intens poate duce la blocarea accesului la site, cu prejudicii, a spider-ului sau a IP-ului dumneavoastră."
+salva,foarte familiar,"Cu toate acestea, dacă programul este un fel de editor care rulează pe un desktop, este posibil să doriți să oferiți operatorului opțiunea de a salva informațiile introduse cu trudă în loc să iasă din program."
+trudă,simplu,"Cu toate acestea, dacă programul este un fel de editor care rulează pe un desktop, este posibil să doriți să oferiți operatorului opțiunea de a salva informațiile introduse cu trudă în loc să iasă din program."
+iasă,foarte familiar,"Cu toate acestea, dacă programul este un fel de editor care rulează pe un desktop, este posibil să doriți să oferiți operatorului opțiunea de a salva informațiile introduse cu trudă în loc să iasă din program."
+deține,simplu,"Cu toate acestea, într-un anumit domeniu deține o putere extrem de sensibilă, și anume dreptul de a retrage sau de a bloca aprovizionarea, i.e."
+extrem,simplu,"Cu toate acestea, într-un anumit domeniu deține o putere extrem de sensibilă, și anume dreptul de a retrage sau de a bloca aprovizionarea, i.e."
+anume,simplu,"Cu toate acestea, într-un anumit domeniu deține o putere extrem de sensibilă, și anume dreptul de a retrage sau de a bloca aprovizionarea, i.e."
+ciuda,simplu,"Cu toate acestea, în ciuda acestor limitări, în mare parte inevitabile, mai multe SUV-uri și camioane mai mari au fost convertite cu succes la energie electrică de către pasionați."
+inevitabile,simplu,"Cu toate acestea, în ciuda acestor limitări, în mare parte inevitabile, mai multe SUV-uri și camioane mai mari au fost convertite cu succes la energie electrică de către pasionați."
+succes,simplu,"Cu toate acestea, în ciuda acestor limitări, în mare parte inevitabile, mai multe SUV-uri și camioane mai mari au fost convertite cu succes la energie electrică de către pasionați."
+abundente,simplu,"Cu toate acestea, ploile abundente și persistente și furtunile pot provoca inundații și înnămolire a solului, precum și eroziune gravă cauzată de ploi."
+persistente,simplu,"Cu toate acestea, ploile abundente și persistente și furtunile pot provoca inundații și înnămolire a solului, precum și eroziune gravă cauzată de ploi."
+furtunile,foarte familiar,"Cu toate acestea, ploile abundente și persistente și furtunile pot provoca inundații și înnămolire a solului, precum și eroziune gravă cauzată de ploi."
+infinitezimal,nu cunosc,"Cu toate acestea, în general, este necesar să se aplice aceste legi la un volum de control infinitezimal, apoi să se utilizeze ecuațiile diferențiale rezultate."
+diferențiale,complex,"Cu toate acestea, în general, este necesar să se aplice aceste legi la un volum de control infinitezimal, apoi să se utilizeze ecuațiile diferențiale rezultate."
+rezultate,simplu,"Cu toate acestea, în general, este necesar să se aplice aceste legi la un volum de control infinitezimal, apoi să se utilizeze ecuațiile diferențiale rezultate."
+rareori,foarte familiar,"Cu toate acestea, este rareori nevoie să spunem că acest artificiu ar avea o valoare limitată dacă am ști că mitul este o minciună."
+artificiu,simplu,"Cu toate acestea, este rareori nevoie să spunem că acest artificiu ar avea o valoare limitată dacă am ști că mitul este o minciună."
+mitul,simplu,"Cu toate acestea, este rareori nevoie să spunem că acest artificiu ar avea o valoare limitată dacă am ști că mitul este o minciună."
+suferi,simplu,"Cu toate acestea, ar trebui să fie clar că diferite lungimi de undă vor suferi interferențe constructive pentru diferite unghiuri de incidență a luminii primite."
+constructive,simplu,"Cu toate acestea, ar trebui să fie clar că diferite lungimi de undă vor suferi interferențe constructive pentru diferite unghiuri de incidență a luminii primite."
+unghiuri,simplu,"Cu toate acestea, ar trebui să fie clar că diferite lungimi de undă vor suferi interferențe constructive pentru diferite unghiuri de incidență a luminii primite."
+sinaptice,complex,"Cu toate acestea, atenuarea nu poate merge decât până la nivelul plasticii sinaptice și corticale a creierului, deoarece gravitatea ADHD depinde în principal de aspectele neurobiologice."
+depinde,simplu,"Cu toate acestea, atenuarea nu poate merge decât până la nivelul plasticii sinaptice și corticale a creierului, deoarece gravitatea ADHD depinde în principal de aspectele neurobiologice."
+principal,simplu,"Cu toate acestea, atenuarea nu poate merge decât până la nivelul plasticii sinaptice și corticale a creierului, deoarece gravitatea ADHD depinde în principal de aspectele neurobiologice."
+Peroxidul,complex,"Peroxidul de hidrogen se va degrada spontan în apă și oxigen molecular, însă prezența unui catalizator accelerează această reacție până la punctul în care a fost folosit ca sursă de combustibil pentru torpile și chiar pentru nave spațiale."
+spontan,simplu,"Peroxidul de hidrogen se va degrada spontan în apă și oxigen molecular, însă prezența unui catalizator accelerează această reacție până la punctul în care a fost folosit ca sursă de combustibil pentru torpile și chiar pentru nave spațiale."
+accelerează,simplu,"Peroxidul de hidrogen se va degrada spontan în apă și oxigen molecular, însă prezența unui catalizator accelerează această reacție până la punctul în care a fost folosit ca sursă de combustibil pentru torpile și chiar pentru nave spațiale."
+colaborare,simplu,Apreciez cu adevărat spiritul de colaborare al acestei platforme și mă angajez să fiu mai vigilent în ceea ce privește problemele legate de drepturile de autor în viitor.
+platforme,simplu,Apreciez cu adevărat spiritul de colaborare al acestei platforme și mă angajez să fiu mai vigilent în ceea ce privește problemele legate de drepturile de autor în viitor.
+angajez,simplu,Apreciez cu adevărat spiritul de colaborare al acestei platforme și mă angajez să fiu mai vigilent în ceea ce privește problemele legate de drepturile de autor în viitor.
+preocupările,simplu,Vă înțeleg preocupările legate de problemele legate de copyright și de necesitatea de a menține integritatea conținutului de pe platformă.
+copyright,simplu,Vă înțeleg preocupările legate de problemele legate de copyright și de necesitatea de a menține integritatea conținutului de pe platformă.
+menține,simplu,Vă înțeleg preocupările legate de problemele legate de copyright și de necesitatea de a menține integritatea conținutului de pe platformă.
+masați,simplu,"Dacă nu, masați ușor mușchiul cu crampe, puteți încerca, de asemenea, să aplicați gheață."
+crampe,simplu,"Dacă nu, masați ușor mușchiul cu crampe, puteți încerca, de asemenea, să aplicați gheață."
+aplicați,simplu,"Dacă nu, masați ușor mușchiul cu crampe, puteți încerca, de asemenea, să aplicați gheață."
+dispus,simplu,"Dacă este posibil, găsiți un apicultor din zona dumneavoastră care ar putea fi dispus să vă ghideze sau chiar să vă îndrume în timpul noului dumneavoastră interes."
+îndrume,simplu,"Dacă este posibil, găsiți un apicultor din zona dumneavoastră care ar putea fi dispus să vă ghideze sau chiar să vă îndrume în timpul noului dumneavoastră interes."
+noului,foarte familiar,"Dacă este posibil, găsiți un apicultor din zona dumneavoastră care ar putea fi dispus să vă ghideze sau chiar să vă îndrume în timpul noului dumneavoastră interes."
+matematicieni,foarte familiar,"În încercarea de a îmbunătăți acuratețea, armata a angajat un grup mare de matematicieni pentru a calcula continuu ecuațiile diferențiale necesare pentru rezolvarea tabelelor de tragere balistică."
+calcula,foarte familiar,"În încercarea de a îmbunătăți acuratețea, armata a angajat un grup mare de matematicieni pentru a calcula continuu ecuațiile diferențiale necesare pentru rezolvarea tabelelor de tragere balistică."
+continuu,simplu,"În încercarea de a îmbunătăți acuratețea, armata a angajat un grup mare de matematicieni pentru a calcula continuu ecuațiile diferențiale necesare pentru rezolvarea tabelelor de tragere balistică."
+anuale,foarte familiar,"La multe specii anuale în condiții nefavorabile de uscăciune sau de frig, există doar sămânța."
+nefavorabile,simplu,"La multe specii anuale în condiții nefavorabile de uscăciune sau de frig, există doar sămânța."
+există,foarte familiar,"La multe specii anuale în condiții nefavorabile de uscăciune sau de frig, există doar sămânța."
+nordul,foarte familiar,"În nordul Europei (nordul Germaniei, Țările de Jos și Franța), clasa de mijloc avea tendința de a fi protestantă, ceea ce corespundea cu etica și filozofia muncii."
+tendința,simplu,"În nordul Europei (nordul Germaniei, Țările de Jos și Franța), clasa de mijloc avea tendința de a fi protestantă, ceea ce corespundea cu etica și filozofia muncii."
+corespundea,simplu,"În nordul Europei (nordul Germaniei, Țările de Jos și Franța), clasa de mijloc avea tendința de a fi protestantă, ceea ce corespundea cu etica și filozofia muncii."
+suficient,simplu,"Pentru a obține acest câmp, camera trebuie să fie suficient de reverberantă, iar frecvențele trebuie să fie suficient de înalte pentru a evita efectele modurilor predominante."
+frecvențele,simplu,"Pentru a obține acest câmp, camera trebuie să fie suficient de reverberantă, iar frecvențele trebuie să fie suficient de înalte pentru a evita efectele modurilor predominante."
+predominante,simplu,"Pentru a obține acest câmp, camera trebuie să fie suficient de reverberantă, iar frecvențele trebuie să fie suficient de înalte pentru a evita efectele modurilor predominante."
+frecvent,simplu,"În chimia organică, carbonul este utilizat foarte frecvent, astfel încât chimiștii știu că există un atom de carbon la capetele fiecărei linii care nu este etichetată în mod explicit."
+chimiștii,foarte familiar,"În chimia organică, carbonul este utilizat foarte frecvent, astfel încât chimiștii știu că există un atom de carbon la capetele fiecărei linii care nu este etichetată în mod explicit."
+explicit,simplu,"În chimia organică, carbonul este utilizat foarte frecvent, astfel încât chimiștii știu că există un atom de carbon la capetele fiecărei linii care nu este etichetată în mod explicit."
+programare,simplu,"În contextul limbajelor de programare, în cazul limbajelor declarative, se furnizează date și reguli computerului, care pot fi apoi interogate pentru a oferi date înapoi."
+declarative,complex,"În contextul limbajelor de programare, în cazul limbajelor declarative, se furnizează date și reguli computerului, care pot fi apoi interogate pentru a oferi date înapoi."
+interogate,complex,"În contextul limbajelor de programare, în cazul limbajelor declarative, se furnizează date și reguli computerului, care pot fi apoi interogate pentru a oferi date înapoi."
+nimeni,foarte familiar,"În exemplul de mai sus, cantitatea conservată ar fi șosetele, sistemul ar fi uscătorul, iar sistemul este închis atâta timp cât nimeni nu introduce sau scoate șosete din uscător."
+introduce,simplu,"În exemplul de mai sus, cantitatea conservată ar fi șosetele, sistemul ar fi uscătorul, iar sistemul este închis atâta timp cât nimeni nu introduce sau scoate șosete din uscător."
+șosete,foarte familiar,"În exemplul de mai sus, cantitatea conservată ar fi șosetele, sistemul ar fi uscătorul, iar sistemul este închis atâta timp cât nimeni nu introduce sau scoate șosete din uscător."
+moleculei,simplu,"În etapa finală, unul dintre hidrogenii moleculei de apă legată este atacat de o altă moleculă de apă, lăsând un alcool."
+legată,foarte familiar,"În etapa finală, unul dintre hidrogenii moleculei de apă legată este atacat de o altă moleculă de apă, lăsând un alcool."
+atacat,foarte familiar,"În etapa finală, unul dintre hidrogenii moleculei de apă legată este atacat de o altă moleculă de apă, lăsând un alcool."
+implementare,simplu,"În aceste cazuri, rolul agentului de implementare este de a furniza inputurile de bază, inclusiv, dar nu numai, capitalul care va da startul proiectului și îi va permite acestuia să continue sub propriul impuls după plecarea agentului de implementare."
+permite,simplu,"În aceste cazuri, rolul agentului de implementare este de a furniza inputurile de bază, inclusiv, dar nu numai, capitalul care va da startul proiectului și îi va permite acestuia să continue sub propriul impuls după plecarea agentului de implementare."
+implementare,simplu,"În aceste cazuri, rolul agentului de implementare este de a furniza inputurile de bază, inclusiv, dar nu numai, capitalul care va da startul proiectului și îi va permite acestuia să continue sub propriul impuls după plecarea agentului de implementare."
+analogie,simplu,"În acest sistem, compușii sunt denumiți prin analogie cu gliceraldehida, ceea ce produce în general denumiri neambigue, dar este cel mai ușor de observat în cazul micilor biomolecule similare gliceraldehidei."
+ușor,foarte familiar,"În acest sistem, compușii sunt denumiți prin analogie cu gliceraldehida, ceea ce produce în general denumiri neambigue, dar este cel mai ușor de observat în cazul micilor biomolecule similare gliceraldehidei."
+biomolecule,simplu,"În acest sistem, compușii sunt denumiți prin analogie cu gliceraldehida, ceea ce produce în general denumiri neambigue, dar este cel mai ușor de observat în cazul micilor biomolecule similare gliceraldehidei."
+prezentate,simplu,În cadrul conferinței au fost prezentate datele inițiale ale analizei medicamentului pentru boli cardiovasculare simvastatin.
+cardiovasculare,simplu,În cadrul conferinței au fost prezentate datele inițiale ale analizei medicamentului pentru boli cardiovasculare simvastatin.
+simvastatin,nu cunosc,În cadrul conferinței au fost prezentate datele inițiale ale analizei medicamentului pentru boli cardiovasculare simvastatin.
+trece,simplu,"În schimb, trece imediat la biții de oprire, ceea ce reprezintă o recunoaștere a faptului că verificarea parității la acest nivel este cu adevărat inutilă."
+imediat,foarte familiar,"În schimb, trece imediat la biții de oprire, ceea ce reprezintă o recunoaștere a faptului că verificarea parității la acest nivel este cu adevărat inutilă."
+recunoaștere,simplu,"În schimb, trece imediat la biții de oprire, ceea ce reprezintă o recunoaștere a faptului că verificarea parității la acest nivel este cu adevărat inutilă."
+bazați,simplu,"În loc să vă bazați pe faptul că aceștia au shell potrivit, puteți specifica pur și simplu ce shell ar trebui să folosească."
+shell,simplu,"În loc să vă bazați pe faptul că aceștia au shell potrivit, puteți specifica pur și simplu ce shell ar trebui să folosească."
+specifica,simplu,"În loc să vă bazați pe faptul că aceștia au shell potrivit, puteți specifica pur și simplu ce shell ar trebui să folosească."
+Conexiunile,simplu,Conexiunile intercelulare permit heterocitelor să transporte azotul fixat către celulele vecine și să primească carbohidrați.
+heterocitelor,complex,Conexiunile intercelulare permit heterocitelor să transporte azotul fixat către celulele vecine și să primească carbohidrați.
+fixat,simplu,Conexiunile intercelulare permit heterocitelor să transporte azotul fixat către celulele vecine și să primească carbohidrați.
+grupate,foarte familiar,"Oasele neregulate au forme deosebite, nu pot fi grupate sub capetele precedente și sunt folosite pentru atașarea mușchilor și pentru articulații."
+precedente,simplu,"Oasele neregulate au forme deosebite, nu pot fi grupate sub capetele precedente și sunt folosite pentru atașarea mușchilor și pentru articulații."
+atașarea,simplu,"Oasele neregulate au forme deosebite, nu pot fi grupate sub capetele precedente și sunt folosite pentru atașarea mușchilor și pentru articulații."
+buton,foarte familiar,"Adaugă un buton la bara de instrumente de editare din editorul de surse, astfel încât este cel mai convenabil pentru paginile de discuții ale utilizatorilor cu legături roșii, dar poate economisi un clic sau două și în alte cazuri, chiar dacă nu este la fel de rapid ca Twinkle."
+legături,simplu,"Adaugă un buton la bara de instrumente de editare din editorul de surse, astfel încât este cel mai convenabil pentru paginile de discuții ale utilizatorilor cu legături roșii, dar poate economisi un clic sau două și în alte cazuri, chiar dacă nu este la fel de rapid ca Twinkle."
+clic,simplu,"Adaugă un buton la bara de instrumente de editare din editorul de surse, astfel încât este cel mai convenabil pentru paginile de discuții ale utilizatorilor cu legături roșii, dar poate economisi un clic sau două și în alte cazuri, chiar dacă nu este la fel de rapid ca Twinkle."
+urme,foarte familiar,"S-a spus că a trebuit să își croiască drum prin păduri fără urme, ceea ce, fără îndoială, a fost cazul cel puțin în acest oraș."
+îndoială,simplu,"S-a spus că a trebuit să își croiască drum prin păduri fără urme, ceea ce, fără îndoială, a fost cazul cel puțin în acest oraș."
+oraș,foarte familiar,"S-a spus că a trebuit să își croiască drum prin păduri fără urme, ceea ce, fără îndoială, a fost cazul cel puțin în acest oraș."
+pilusul,complex,"În general, se crede că pilusul este asamblat de la baza sa, deoarece în membrana celulară se găsește o rezervă de pilină."
+asamblat,simplu,"În general, se crede că pilusul este asamblat de la baza sa, deoarece în membrana celulară se găsește o rezervă de pilină."
+pilină,complex,"În general, se crede că pilusul este asamblat de la baza sa, deoarece în membrana celulară se găsește o rezervă de pilină."
+mixtă,foarte familiar,"Este important ca atunci când planificați o lecție de învățare mixtă în clasele primare să vă concentrați pe o unitate de studiu, apoi să o împletiți cu tehnologia."
+clasele,simplu,"Este important ca atunci când planificați o lecție de învățare mixtă în clasele primare să vă concentrați pe o unitate de studiu, apoi să o împletiți cu tehnologia."
+împletiți,complex,"Este important ca atunci când planificați o lecție de învățare mixtă în clasele primare să vă concentrați pe o unitate de studiu, apoi să o împletiți cu tehnologia."
+imunitar,simplu,"Este utilizat de sistemul imunitar, pentru sinteza ADN-ului, pentru vindecarea rănilor și pentru creșterea și dezvoltarea normală în perioadele cu activitate hormonală."
+vindecarea,foarte familiar,"Este utilizat de sistemul imunitar, pentru sinteza ADN-ului, pentru vindecarea rănilor și pentru creșterea și dezvoltarea normală în perioadele cu activitate hormonală."
+hormonală,simplu,"Este utilizat de sistemul imunitar, pentru sinteza ADN-ului, pentru vindecarea rănilor și pentru creșterea și dezvoltarea normală în perioadele cu activitate hormonală."
+repetat,foarte familiar,"Acesta prezintă în mod repetat ilustrații ale cercetașilor în scene însorite de munte, fără niciun fel de pălării."
+ilustrații,simplu,"Acesta prezintă în mod repetat ilustrații ale cercetașilor în scene însorite de munte, fără niciun fel de pălării."
+niciun,foarte familiar,"Acesta prezintă în mod repetat ilustrații ale cercetașilor în scene însorite de munte, fără niciun fel de pălării."
+descoperită,simplu,"A fost descoperită de tonți și de alți vorbitori de engleză și, pentru o vreme, postarea între cele două limbi a înflorit."
+tonți,simplu,"A fost descoperită de tonți și de alți vorbitori de engleză și, pentru o vreme, postarea între cele două limbi a înflorit."
+postarea,complex,"A fost descoperită de tonți și de alți vorbitori de engleză și, pentru o vreme, postarea între cele două limbi a înflorit."
+corespunde,simplu,"Vă va duce la pagina care corespunde cererii dumneavoastră, altfel va afișa rezultatele căutării."
+altfel,foarte familiar,"Vă va duce la pagina care corespunde cererii dumneavoastră, altfel va afișa rezultatele căutării."
+afișa,simplu,"Vă va duce la pagina care corespunde cererii dumneavoastră, altfel va afișa rezultatele căutării."
+Hidrogenul,simplu,"Hidrogenul său este ușor de îndepărtat, astfel încât serina și treonina acționează adesea ca donatori de hidrogen în enzime."
+serina,complex,"Hidrogenul său este ușor de îndepărtat, astfel încât serina și treonina acționează adesea ca donatori de hidrogen în enzime."
+donatori,foarte familiar,"Hidrogenul său este ușor de îndepărtat, astfel încât serina și treonina acționează adesea ca donatori de hidrogen în enzime."
+răsturnat,simplu,"James a fost răsturnat (din punct de vedere tehnic a fost abdicat de Parlament) în Revoluția Glorioasă din 1688, care a avut loc fără vărsare de sânge."
+tehnic,simplu,"James a fost răsturnat (din punct de vedere tehnic a fost abdicat de Parlament) în Revoluția Glorioasă din 1688, care a avut loc fără vărsare de sânge."
+abdicat,complex,"James a fost răsturnat (din punct de vedere tehnic a fost abdicat de Parlament) în Revoluția Glorioasă din 1688, care a avut loc fără vărsare de sânge."
+analizat,simplu,"În cele din urmă, studiul a analizat conversia fosfolipidelor bogate în polinesaturate în triacilgliceride prin intermediul unei căi a fosfolipazei C."
+bogate,foarte familiar,"În cele din urmă, studiul a analizat conversia fosfolipidelor bogate în polinesaturate în triacilgliceride prin intermediul unei căi a fosfolipazei C."
+fosfolipazei,nu cunosc,"În cele din urmă, studiul a analizat conversia fosfolipidelor bogate în polinesaturate în triacilgliceride prin intermediul unei căi a fosfolipazei C."
+covalență,complex,"Structurile cu puncte Lewis sunt utile pentru a introduce ideea de covalență și de legătură în moleculele mici, dar alte tipuri de modele au o capacitate mult mai mare de a comunica concepte chimice."
+legătură,foarte familiar,"Structurile cu puncte Lewis sunt utile pentru a introduce ideea de covalență și de legătură în moleculele mici, dar alte tipuri de modele au o capacitate mult mai mare de a comunica concepte chimice."
+comunica,foarte familiar,"Structurile cu puncte Lewis sunt utile pentru a introduce ideea de covalență și de legătură în moleculele mici, dar alte tipuri de modele au o capacitate mult mai mare de a comunica concepte chimice."
+tablouri,simplu,"Ca și în cazul creării de tablouri fără alocare dinamică, programatorul trebuie să inițializeze tabloul cu valori sensibile înainte de a-l utiliza."
+dinamică,complex,"Ca și în cazul creării de tablouri fără alocare dinamică, programatorul trebuie să inițializeze tabloul cu valori sensibile înainte de a-l utiliza."
+tabloul,simplu,"Ca și în cazul creării de tablouri fără alocare dinamică, programatorul trebuie să inițializeze tabloul cu valori sensibile înainte de a-l utiliza."
+generată,simplu,"Poșta este generată intern de către sistemul Postfix însuși, pentru a notifica poștașul despre o problemă (această cale este, de asemenea, indicată cu săgeata fără etichetă)."
+notifica,simplu,"Poșta este generată intern de către sistemul Postfix însuși, pentru a notifica poștașul despre o problemă (această cale este, de asemenea, indicată cu săgeata fără etichetă)."
+poștașul,foarte familiar,"Poșta este generată intern de către sistemul Postfix însuși, pentru a notifica poștașul despre o problemă (această cale este, de asemenea, indicată cu săgeata fără etichetă)."
+federații,simplu,Multe federații folosesc aceste subvenții pentru a corecta dezechilibrele dintre impozite și cheltuieli la diferite niveluri de guvernare.
+subvenții,simplu,Multe federații folosesc aceste subvenții pentru a corecta dezechilibrele dintre impozite și cheltuieli la diferite niveluri de guvernare.
+cheltuieli,simplu,Multe federații folosesc aceste subvenții pentru a corecta dezechilibrele dintre impozite și cheltuieli la diferite niveluri de guvernare.
+protiste,complex,"Multe protiste de apă dulce au vacuole contractile care pompează excesul de apă din celulă, menținând astfel o concentrație adecvată de ioni și molecule în interiorul celulei."
+vacuole,complex,"Multe protiste de apă dulce au vacuole contractile care pompează excesul de apă din celulă, menținând astfel o concentrație adecvată de ioni și molecule în interiorul celulei."
+astfel,simplu,"Multe protiste de apă dulce au vacuole contractile care pompează excesul de apă din celulă, menținând astfel o concentrație adecvată de ioni și molecule în interiorul celulei."
+nutritiv,simplu,"Laptele este un aliment nutritiv valoros, oferind vitamine și grăsimi esențiale celor care îl pot digera în mod corespunzător."
+grăsimi,foarte familiar,"Laptele este un aliment nutritiv valoros, oferind vitamine și grăsimi esențiale celor care îl pot digera în mod corespunzător."
+corespunzător,simplu,"Laptele este un aliment nutritiv valoros, oferind vitamine și grăsimi esențiale celor care îl pot digera în mod corespunzător."
+emoticoanelor,simplu,"Utilizarea modernă a emoticoanelor în discuțiile electronice se datorează, în general, unei propuneri din 1982.>>"
+electronice,simplu,"Utilizarea modernă a emoticoanelor în discuțiile electronice se datorează, în general, unei propuneri din 1982.>>"
+datorează,foarte familiar,"Utilizarea modernă a emoticoanelor în discuțiile electronice se datorează, în general, unei propuneri din 1982.>>"
+introduce,simplu,"Cele mai multe interogări DNS (cum ar fi cererile de rezolvare a numelui) utilizează conexiuni UDP, deoarece cantitatea de date transferate este mică, iar stabilirea sesiunii ar introduce un trafic și o sarcină inutile asupra serverelor de nume."
+trafic,simplu,"Cele mai multe interogări DNS (cum ar fi cererile de rezolvare a numelui) utilizează conexiuni UDP, deoarece cantitatea de date transferate este mică, iar stabilirea sesiunii ar introduce un trafic și o sarcină inutile asupra serverelor de nume."
+inutile,simplu,"Cele mai multe interogări DNS (cum ar fi cererile de rezolvare a numelui) utilizează conexiuni UDP, deoarece cantitatea de date transferate este mică, iar stabilirea sesiunii ar introduce un trafic și o sarcină inutile asupra serverelor de nume."
+Conflictele,simplu,Conflictele multiple consecutive sunt observate și vor genera un mesaj ușor diferit.
+consecutive,simplu,Conflictele multiple consecutive sunt observate și vor genera un mesaj ușor diferit.
+ușor,foarte familiar,Conflictele multiple consecutive sunt observate și vor genera un mesaj ușor diferit.
+încearcă,foarte familiar,"Aproape de sfârșitul războiului, Germania încearcă să lupte pentru o ultimă luptă cu Aliații."
+lupte,foarte familiar,"Aproape de sfârșitul războiului, Germania încearcă să lupte pentru o ultimă luptă cu Aliații."
+luptă,foarte familiar,"Aproape de sfârșitul războiului, Germania încearcă să lupte pentru o ultimă luptă cu Aliații."
+alianță,simplu,"Două sau mai multe state nu vor încheia niciun tratat, confederație sau alianță între ele, fără consimțământul Statelor Unite în Congresul reunit, specificând cu exactitate scopurile pentru care se încheie și durata de valabilitate a acestuia."
+exactitate,simplu,"Două sau mai multe state nu vor încheia niciun tratat, confederație sau alianță între ele, fără consimțământul Statelor Unite în Congresul reunit, specificând cu exactitate scopurile pentru care se încheie și durata de valabilitate a acestuia."
+scopurile,simplu,"Două sau mai multe state nu vor încheia niciun tratat, confederație sau alianță între ele, fără consimțământul Statelor Unite în Congresul reunit, specificând cu exactitate scopurile pentru care se încheie și durata de valabilitate a acestuia."
+discuții,simplu,"Adesea, paginile de discuții ale subiectelor controversate pot fi foarte intens utilizate."
+subiectelor,simplu,"Adesea, paginile de discuții ale subiectelor controversate pot fi foarte intens utilizate."
+intens,simplu,"Adesea, paginile de discuții ale subiectelor controversate pot fi foarte intens utilizate."
+vestice,simplu,"Pe partea germană, însă, s-a format un decalaj între cele mai vestice corpuri de armată, iar înaintarea rapidă a epuizat trupele."
+înaintarea,foarte familiar,"Pe partea germană, însă, s-a format un decalaj între cele mai vestice corpuri de armată, iar înaintarea rapidă a epuizat trupele."
+rapidă,foarte familiar,"Pe partea germană, însă, s-a format un decalaj între cele mai vestice corpuri de armată, iar înaintarea rapidă a epuizat trupele."
+menționat,simplu,"Un lucru important de menționat este faptul că caracterele pentru numerale sunt reprezentate diferit de numărul lor corespunzător, i.e."
+numerale,simplu,"Un lucru important de menționat este faptul că caracterele pentru numerale sunt reprezentate diferit de numărul lor corespunzător, i.e."
+corespunzător,simplu,"Un lucru important de menționat este faptul că caracterele pentru numerale sunt reprezentate diferit de numărul lor corespunzător, i.e."
+participanții,simplu,"La o săptămână de la ultimul comentariu, dacă participanții au ajuns în mare parte la un consens cu privire la ceea ce trebuie făcut, un administrator va lua măsuri."
+ajuns,simplu,"La o săptămână de la ultimul comentariu, dacă participanții au ajuns în mare parte la un consens cu privire la ceea ce trebuie făcut, un administrator va lua măsuri."
+consens,simplu,"La o săptămână de la ultimul comentariu, dacă participanții au ajuns în mare parte la un consens cu privire la ceea ce trebuie făcut, un administrator va lua măsuri."
+dubioasă,simplu,"Doar Piatra Învierii i se pare dubioasă pentru Hermione, deși Harry speră că aceasta i-ar putea învia părinții morți."
+speră,foarte familiar,"Doar Piatra Învierii i se pare dubioasă pentru Hermione, deși Harry speră că aceasta i-ar putea învia părinții morți."
+învia,foarte familiar,"Doar Piatra Învierii i se pare dubioasă pentru Hermione, deși Harry speră că aceasta i-ar putea învia părinții morți."
+concentrează,foarte familiar,"Chimia organică se concentrează asupra carbonului și urmărește mișcarea electronilor în lanțurile și inelele de carbon, precum și modul în care electronii sunt împărțiți cu alți atomi de carbon și heteroatomi."
+împărțiți,simplu,"Chimia organică se concentrează asupra carbonului și urmărește mișcarea electronilor în lanțurile și inelele de carbon, precum și modul în care electronii sunt împărțiți cu alți atomi de carbon și heteroatomi."
+atomi,simplu,"Chimia organică se concentrează asupra carbonului și urmărește mișcarea electronilor în lanțurile și inelele de carbon, precum și modul în care electronii sunt împărțiți cu alți atomi de carbon și heteroatomi."
+înmoaie,foarte familiar,"În timp, carnea se înmoaie și își dezvoltă mai mult gustul, iar pentru anumite tipuri de carne acest proces poate fi prelungit cu grijă printr-un proces numit învechire."
+prelungit,foarte familiar,"În timp, carnea se înmoaie și își dezvoltă mai mult gustul, iar pentru anumite tipuri de carne acest proces poate fi prelungit cu grijă printr-un proces numit învechire."
+grijă,foarte familiar,"În timp, carnea se înmoaie și își dezvoltă mai mult gustul, iar pentru anumite tipuri de carne acest proces poate fi prelungit cu grijă printr-un proces numit învechire."
+capota,foarte familiar,Imaginați-vă că deschideți capota unei mașini și găsiți o mașină de spălat în locul motorului.
+spălat,foarte familiar,Imaginați-vă că deschideți capota unei mașini și găsiți o mașină de spălat în locul motorului.
+motorului,foarte familiar,Imaginați-vă că deschideți capota unei mașini și găsiți o mașină de spălat în locul motorului.
+entitate,simplu,"Proiectele de lege private afectează o anumită companie, persoană sau altă entitate (de exemplu, autorizarea unor construcții majore pe anumite terenuri publice)."
+construcții,foarte familiar,"Proiectele de lege private afectează o anumită companie, persoană sau altă entitate (de exemplu, autorizarea unor construcții majore pe anumite terenuri publice)."
+anumite,simplu,"Proiectele de lege private afectează o anumită companie, persoană sau altă entitate (de exemplu, autorizarea unor construcții majore pe anumite terenuri publice)."
+lacuri,foarte familiar,"Cu dimensiuni variate, de la lacuri de mari dimensiuni și văi închise la iazuri în miniatură, aceste depresiuni au fost lăsate de gheața îngropată care s-a topit în cele din urmă."
+depresiuni,simplu,"Cu dimensiuni variate, de la lacuri de mari dimensiuni și văi închise la iazuri în miniatură, aceste depresiuni au fost lăsate de gheața îngropată care s-a topit în cele din urmă."
+urmă,foarte familiar,"Cu dimensiuni variate, de la lacuri de mari dimensiuni și văi închise la iazuri în miniatură, aceste depresiuni au fost lăsate de gheața îngropată care s-a topit în cele din urmă."
+înfășura,simplu,"Nu uitați că textul va curge și se va înfășura diferit pentru alți utilizatori, în funcție de browserul ales rezoluția ecranului, dimensiunea implicită a fontului, opțiunile de accesibilitate, numărul de bare de instrumente și bare laterale (cum ar fi panourile de mesagerie instantanee) și altele."
+ales,simplu,"Nu uitați că textul va curge și se va înfășura diferit pentru alți utilizatori, în funcție de browserul ales rezoluția ecranului, dimensiunea implicită a fontului, opțiunile de accesibilitate, numărul de bare de instrumente și bare laterale (cum ar fi panourile de mesagerie instantanee) și altele."
+implicită,simplu,"Nu uitați că textul va curge și se va înfășura diferit pentru alți utilizatori, în funcție de browserul ales rezoluția ecranului, dimensiunea implicită a fontului, opțiunile de accesibilitate, numărul de bare de instrumente și bare laterale (cum ar fi panourile de mesagerie instantanee) și altele."
+Respirația,foarte familiar,Respirația de salvare este utilizată dacă victima nu începe să respire atunci când se deschid căile respiratorii.
+victima,simplu,Respirația de salvare este utilizată dacă victima nu începe să respire atunci când se deschid căile respiratorii.
+începe,foarte familiar,Respirația de salvare este utilizată dacă victima nu începe să respire atunci când se deschid căile respiratorii.
+degetelor,foarte familiar,"Tampoanele sensibile ale degetelor noastre, folosite ca antene tactile, detectează cea mai mică tresărire, încordare sau ezitare de răspuns."
+mică,foarte familiar,"Tampoanele sensibile ale degetelor noastre, folosite ca antene tactile, detectează cea mai mică tresărire, încordare sau ezitare de răspuns."
+ezitare,simplu,"Tampoanele sensibile ale degetelor noastre, folosite ca antene tactile, detectează cea mai mică tresărire, încordare sau ezitare de răspuns."
+aranjează,simplu,"Ea aranjează împrumutul unui reparator de la un concurent, dar între timp organizează un număr mare de oameni cu lanterne într-un sistem manual de semnalizare."
+organizează,simplu,"Ea aranjează împrumutul unui reparator de la un concurent, dar între timp organizează un număr mare de oameni cu lanterne într-un sistem manual de semnalizare."
+manual,foarte familiar,"Ea aranjează împrumutul unui reparator de la un concurent, dar între timp organizează un număr mare de oameni cu lanterne într-un sistem manual de semnalizare."
+surprinsă,simplu,"Fusese surprinsă de faptul că Taggart trecuse într-o zi, din senin, prin camera ei de mahala."
+trecuse,foarte familiar,"Fusese surprinsă de faptul că Taggart trecuse într-o zi, din senin, prin camera ei de mahala."
+mahala,simplu,"Fusese surprinsă de faptul că Taggart trecuse într-o zi, din senin, prin camera ei de mahala."
+manualelor,foarte familiar,"Deoarece majoritatea manualelor sunt elaborate de către sau pe baza contribuțiilor experților în domeniu, această cerință este, de obicei, bine respectată."
+contribuțiilor,simplu,"Deoarece majoritatea manualelor sunt elaborate de către sau pe baza contribuțiilor experților în domeniu, această cerință este, de obicei, bine respectată."
+respectată,simplu,"Deoarece majoritatea manualelor sunt elaborate de către sau pe baza contribuțiilor experților în domeniu, această cerință este, de obicei, bine respectată."
+elementară,simplu,Deoarece ideea elementară de funcții este mai bine înțeleasă din punct de vedere clasic o vom folosi în continuare.
+înțeleasă,foarte familiar,Deoarece ideea elementară de funcții este mai bine înțeleasă din punct de vedere clasic o vom folosi în continuare.
+clasic,foarte familiar,Deoarece ideea elementară de funcții este mai bine înțeleasă din punct de vedere clasic o vom folosi în continuare.
+descoperirilor,simplu,"Unele dintre aceste variații se referă la comisioane, protecția împotriva descoperirilor de cont, soldurile minime, legăturile permise între conturi (de exemplu, conturi curente și de economii) și regulile de deschidere a contului."
+minime,simplu,"Unele dintre aceste variații se referă la comisioane, protecția împotriva descoperirilor de cont, soldurile minime, legăturile permise între conturi (de exemplu, conturi curente și de economii) și regulile de deschidere a contului."
+curente,simplu,"Unele dintre aceste variații se referă la comisioane, protecția împotriva descoperirilor de cont, soldurile minime, legăturile permise între conturi (de exemplu, conturi curente și de economii) și regulile de deschidere a contului."
+normal,foarte familiar,"Este posibil ca unele părți să nu fie consumate niciodată, iar altele nu sunt procesate în mod normal ca și carne cușer în Statele Unite, din cauza muncii suplimentare pe care o implică."
+carne,foarte familiar,"Este posibil ca unele părți să nu fie consumate niciodată, iar altele nu sunt procesate în mod normal ca și carne cușer în Statele Unite, din cauza muncii suplimentare pe care o implică."
+cușer,nu cunosc,"Este posibil ca unele părți să nu fie consumate niciodată, iar altele nu sunt procesate în mod normal ca și carne cușer în Statele Unite, din cauza muncii suplimentare pe care o implică."
+ablativul,nu cunosc,"Unii elevi consideră că ablativul este dificil, deoarece uneori seamănă cu nominativul singular, cu dativul plural sau cu niciunul dintre acestea."
+nominativul,complex,"Unii elevi consideră că ablativul este dificil, deoarece uneori seamănă cu nominativul singular, cu dativul plural sau cu niciunul dintre acestea."
+dativul,simplu,"Unii elevi consideră că ablativul este dificil, deoarece uneori seamănă cu nominativul singular, cu dativul plural sau cu niciunul dintre acestea."
+manipulați,simplu,Uneori va trebui să manipulați expresii într-o formă utilizabilă înainte de a putea efectua operații de calcul.
+expresii,simplu,Uneori va trebui să manipulați expresii într-o formă utilizabilă înainte de a putea efectua operații de calcul.
+efectua,foarte familiar,Uneori va trebui să manipulați expresii într-o formă utilizabilă înainte de a putea efectua operații de calcul.
+termice,simplu,Oțelurile sunt adesea supuse la o varietate de tratamente termice concepute pentru a produce diverse combinații de faze stabile și metastabile ale fierului.
+stabile,simplu,Oțelurile sunt adesea supuse la o varietate de tratamente termice concepute pentru a produce diverse combinații de faze stabile și metastabile ale fierului.
+metastabile,complex,Oțelurile sunt adesea supuse la o varietate de tratamente termice concepute pentru a produce diverse combinații de faze stabile și metastabile ale fierului.
+cavitate,simplu,O astfel de cavitate poate oferi numeroase avantaje funcționale.
+numeroase,foarte familiar,O astfel de cavitate poate oferi numeroase avantaje funcționale.
+funcționale,simplu,O astfel de cavitate poate oferi numeroase avantaje funcționale.
+conectare,simplu,"Un astfel de acces ar putea fi utilizat pentru autentificarea la conectare, crearea unui nou cont de utilizator sau salvarea de informații textuale pentru a fi recuperate și studiate în viitor."
+textuale,simplu,"Un astfel de acces ar putea fi utilizat pentru autentificarea la conectare, crearea unui nou cont de utilizator sau salvarea de informații textuale pentru a fi recuperate și studiate în viitor."
+recuperate,simplu,"Un astfel de acces ar putea fi utilizat pentru autentificarea la conectare, crearea unui nou cont de utilizator sau salvarea de informații textuale pentru a fi recuperate și studiate în viitor."
+micile,foarte familiar,"Suzuki Pureharp este unul dintre micile modele de producție care sunt acoperite în lemn, ceea ce produce un sunet moale și plăcut."
+moale,foarte familiar,"Suzuki Pureharp este unul dintre micile modele de producție care sunt acoperite în lemn, ceea ce produce un sunet moale și plăcut."
+plăcut,foarte familiar,"Suzuki Pureharp este unul dintre micile modele de producție care sunt acoperite în lemn, ceea ce produce un sunet moale și plăcut."
+stil,foarte familiar,"Romanii, care au folosit inițial acest stil, l-au considerat greoi și greu de manevrat pe terenul muntos și accidentat al Italiei."
+manevrat,simplu,"Romanii, care au folosit inițial acest stil, l-au considerat greoi și greu de manevrat pe terenul muntos și accidentat al Italiei."
+muntos,foarte familiar,"Romanii, care au folosit inițial acest stil, l-au considerat greoi și greu de manevrat pe terenul muntos și accidentat al Italiei."
+Clătirea,foarte familiar,Clătirea cu alcool nu îndepărtează cristalul violet care maschează colorantul roșu safanin adăugat.
+alcool,foarte familiar,Clătirea cu alcool nu îndepărtează cristalul violet care maschează colorantul roșu safanin adăugat.
+maschează,simplu,Clătirea cu alcool nu îndepărtează cristalul violet care maschează colorantul roșu safanin adăugat.
+curbată,foarte familiar,Linia mare și curbată din stânga este îndreptată în mod elaborat spre mine (mi).
+îndreptată,foarte familiar,Linia mare și curbată din stânga este îndreptată în mod elaborat spre mine (mi).
+elaborat,simplu,Linia mare și curbată din stânga este îndreptată în mod elaborat spre mine (mi).
+filtrată,simplu,"Unda purtătoare este filtrată, iar un difuzor cântă în funcție de amplitudinea semnalului."
+difuzor,simplu,"Unda purtătoare este filtrată, iar un difuzor cântă în funcție de amplitudinea semnalului."
+amplitudinea,complex,"Unda purtătoare este filtrată, iar un difuzor cântă în funcție de amplitudinea semnalului."
+central,foarte familiar,Elementul central al mănăstirii renovate a fost un altar dedicat lui Edward.
+mănăstirii,foarte familiar,Elementul central al mănăstirii renovate a fost un altar dedicat lui Edward.
+renovate,simplu,Elementul central al mănăstirii renovate a fost un altar dedicat lui Edward.
+Tabloul,foarte familiar,"Tabloul clasic Playfair este format din patru alfabete, de obicei în aranjament pătrat, două texte în clar și două texte cifrate."
+format,simplu,"Tabloul clasic Playfair este format din patru alfabete, de obicei în aranjament pătrat, două texte în clar și două texte cifrate."
+aranjament,simplu,"Tabloul clasic Playfair este format din patru alfabete, de obicei în aranjament pătrat, două texte în clar și două texte cifrate."
+combinată,foarte familiar,"Lucrarea combinată trebuie să conțină doar un singur exemplar al prezentei licențe, iar secțiunile invariabile multiple și identice pot fi înlocuite cu un singur exemplar."
+identice,simplu,"Lucrarea combinată trebuie să conțină doar un singur exemplar al prezentei licențe, iar secțiunile invariabile multiple și identice pot fi înlocuite cu un singur exemplar."
+înlocuite,foarte familiar,"Lucrarea combinată trebuie să conțină doar un singur exemplar al prezentei licențe, iar secțiunile invariabile multiple și identice pot fi înlocuite cu un singur exemplar."
+Dezavantajele,simplu,Dezavantajele depășesc beneficiile și nu există studii actuale care să demonstreze că voucherele funcționează.
+depășesc,foarte familiar,Dezavantajele depășesc beneficiile și nu există studii actuale care să demonstreze că voucherele funcționează.
+voucherele,simplu,Dezavantajele depășesc beneficiile și nu există studii actuale care să demonstreze că voucherele funcționează.
+Diagnosticul,simplu,"Diagnosticul de schizofrenie nu ar trebui pus în prezența unor simptome depresive sau maniacale extinse, cu excepția cazului în care este clar că simptomele schizofrenice sunt anterioare tulburărilor afective."
+depresive,simplu,"Diagnosticul de schizofrenie nu ar trebui pus în prezența unor simptome depresive sau maniacale extinse, cu excepția cazului în care este clar că simptomele schizofrenice sunt anterioare tulburărilor afective."
+anterioare,simplu,"Diagnosticul de schizofrenie nu ar trebui pus în prezența unor simptome depresive sau maniacale extinse, cu excepția cazului în care este clar că simptomele schizofrenice sunt anterioare tulburărilor afective."
+personalului,simplu,"Întreaga aplicație asamblată este platforma lor, iar birourile personalului afectat reprezintă domeniul țintă pentru munca lor."
+afectat,simplu,"Întreaga aplicație asamblată este platforma lor, iar birourile personalului afectat reprezintă domeniul țintă pentru munca lor."
+domeniul,simplu,"Întreaga aplicație asamblată este platforma lor, iar birourile personalului afectat reprezintă domeniul țintă pentru munca lor."
+formată,simplu,"Vacuola alimentară formată, apoi fuzionează cu un lizozom și digeră alimentele."
+fuzionează,simplu,"Vacuola alimentară formată, apoi fuzionează cu un lizozom și digeră alimentele."
+digeră,simplu,"Vacuola alimentară formată, apoi fuzionează cu un lizozom și digeră alimentele."
+intermediar,simplu,"Formarea acestui intermediar și reacția ulterioară au, în general, o barieră de energie de activare mult mai mică decât cea necesară pentru reacția directă de transformare a reactanților în produși."
+ulterioară,simplu,"Formarea acestui intermediar și reacția ulterioară au, în general, o barieră de energie de activare mult mai mică decât cea necesară pentru reacția directă de transformare a reactanților în produși."
+barieră,simplu,"Formarea acestui intermediar și reacția ulterioară au, în general, o barieră de energie de activare mult mai mică decât cea necesară pentru reacția directă de transformare a reactanților în produși."
+distribuirea,simplu,"Obiectivele acestei proceduri vor fi distribuirea de informații exacte, cu aprobările corecte, folosind tehnologii și strategii suficiente."
+aprobările,simplu,"Obiectivele acestei proceduri vor fi distribuirea de informații exacte, cu aprobările corecte, folosind tehnologii și strategii suficiente."
+suficiente,simplu,"Obiectivele acestei proceduri vor fi distribuirea de informații exacte, cu aprobările corecte, folosind tehnologii și strategii suficiente."
+transpoziție,complex,Chitara este un instrument de transpoziție și este notată cu o octavă mai sus decât înălțimea sa reală pentru a evita utilizarea clapei de bas în notația standard.
+clapei,simplu,Chitara este un instrument de transpoziție și este notată cu o octavă mai sus decât înălțimea sa reală pentru a evita utilizarea clapei de bas în notația standard.
+notația,simplu,Chitara este un instrument de transpoziție și este notată cu o octavă mai sus decât înălțimea sa reală pentru a evita utilizarea clapei de bas în notația standard.
+Senzorul,simplu,Senzorul Hall și inductorul utilizează o proprietate a câmpului magnetic pentru a detecta curentul printr-un conductor din apropiere.
+Hall,complex,Senzorul Hall și inductorul utilizează o proprietate a câmpului magnetic pentru a detecta curentul printr-un conductor din apropiere.
+magnetic,foarte familiar,Senzorul Hall și inductorul utilizează o proprietate a câmpului magnetic pentru a detecta curentul printr-un conductor din apropiere.
+rit,nu cunosc,"Eroul a fost apoi chemat să participe la cel de-al doilea rit cel al cuceririi, învingând pe generalul mercenar Claudius."
+învingând,foarte familiar,"Eroul a fost apoi chemat să participe la cel de-al doilea rit cel al cuceririi, învingând pe generalul mercenar Claudius."
+mercenar,simplu,"Eroul a fost apoi chemat să participe la cel de-al doilea rit cel al cuceririi, învingând pe generalul mercenar Claudius."
+lexical,simplu,Analizatorul lexical este partea din compilator care elimină spațiile albe și alte caractere care nu sunt compilabile din codul sursă.
+caractere,simplu,Analizatorul lexical este partea din compilator care elimină spațiile albe și alte caractere care nu sunt compilabile din codul sursă.
+compilabile,complex,Analizatorul lexical este partea din compilator care elimină spațiile albe și alte caractere care nu sunt compilabile din codul sursă.
+ieșiri,complex,Principalul motiv pentru care nu se permit mai multe ieșiri cu aceeași intrare este acela că ne permite să aplicăm aceeași funcție la diferite forme ale aceluiași lucru fără a schimba echivalența acestora.
+schimba,foarte familiar,Principalul motiv pentru care nu se permit mai multe ieșiri cu aceeași intrare este acela că ne permite să aplicăm aceeași funcție la diferite forme ale aceluiași lucru fără a schimba echivalența acestora.
+echivalența,simplu,Principalul motiv pentru care nu se permit mai multe ieșiri cu aceeași intrare este acela că ne permite să aplicăm aceeași funcție la diferite forme ale aceluiași lucru fără a schimba echivalența acestora.
+brune,foarte familiar,"Majoritatea algelor marine, cum ar fi kelps (alge brune foarte mari din ordinul Laminariales), în ciuda unei astfel de aparențe superficiale, nu au tulpini adevărate, frunze, rădăcini și nici un fel de sistem vascular, așa cum se găsește la plantele superioare."
+superficiale,simplu,"Majoritatea algelor marine, cum ar fi kelps (alge brune foarte mari din ordinul Laminariales), în ciuda unei astfel de aparențe superficiale, nu au tulpini adevărate, frunze, rădăcini și nici un fel de sistem vascular, așa cum se găsește la plantele superioare."
+vascular,simplu,"Majoritatea algelor marine, cum ar fi kelps (alge brune foarte mari din ordinul Laminariales), în ciuda unei astfel de aparențe superficiale, nu au tulpini adevărate, frunze, rădăcini și nici un fel de sistem vascular, așa cum se găsește la plantele superioare."
+înjunghiat,simplu,"A doua zi, în timpul Fajr Salaah, l-a înjunghiat pe Sayyiduna Umar (radi Allahu anhu) de 6 ori în spate, rănind grav pe calif."
+rănind,foarte familiar,"A doua zi, în timpul Fajr Salaah, l-a înjunghiat pe Sayyiduna Umar (radi Allahu anhu) de 6 ori în spate, rănind grav pe calif."
+grav,foarte familiar,"A doua zi, în timpul Fajr Salaah, l-a înjunghiat pe Sayyiduna Umar (radi Allahu anhu) de 6 ori în spate, rănind grav pe calif."
+acoperă,foarte familiar,"Partea nordică a continentului, care acoperă o mare parte din Siberia, era, de asemenea, inaccesibilă nomazilor din stepă din cauza pădurilor dense și a tundrei."
+nomazilor,simplu,"Partea nordică a continentului, care acoperă o mare parte din Siberia, era, de asemenea, inaccesibilă nomazilor din stepă din cauza pădurilor dense și a tundrei."
+stepă,simplu,"Partea nordică a continentului, care acoperă o mare parte din Siberia, era, de asemenea, inaccesibilă nomazilor din stepă din cauza pădurilor dense și a tundrei."
+murit,foarte familiar,Ceilalți au murit pe mare sau în închisoare în așteptarea procesului.
+închisoare,foarte familiar,Ceilalți au murit pe mare sau în închisoare în așteptarea procesului.
+așteptarea,foarte familiar,Ceilalți au murit pe mare sau în închisoare în așteptarea procesului.
+hipotalamice,complex,"Motivul pentru care leziunile hipotalamice afectează grăsimea corporală și comportamentul alimentar are, de fapt, mult de-a face cu semnalizarea leptinei."
+afectează,simplu,"Motivul pentru care leziunile hipotalamice afectează grăsimea corporală și comportamentul alimentar are, de fapt, mult de-a face cu semnalizarea leptinei."
+leptinei,nu cunosc,"Motivul pentru care leziunile hipotalamice afectează grăsimea corporală și comportamentul alimentar are, de fapt, mult de-a face cu semnalizarea leptinei."
+Descrierea,foarte familiar,Descrierea configurației relative este încă utilizată în principal în glicochimie.
+configurației,simplu,Descrierea configurației relative este încă utilizată în principal în glicochimie.
+principal,simplu,Descrierea configurației relative este încă utilizată în principal în glicochimie.
+neplăceri,foarte familiar,"Același principiu se aplica, desigur, și la reflexul cu un singur obiectiv, dar primele SLR-uri au provocat întârzieri și neplăceri din cauza necesității de a muta oglinda în afara planului focal pentru a permite luminii să ajungă la placa din spatele ei."
+planului,simplu,"Același principiu se aplica, desigur, și la reflexul cu un singur obiectiv, dar primele SLR-uri au provocat întârzieri și neplăceri din cauza necesității de a muta oglinda în afara planului focal pentru a permite luminii să ajungă la placa din spatele ei."
+placa,foarte familiar,"Același principiu se aplica, desigur, și la reflexul cu un singur obiectiv, dar primele SLR-uri au provocat întârzieri și neplăceri din cauza necesității de a muta oglinda în afara planului focal pentru a permite luminii să ajungă la placa din spatele ei."
+aggro,nu cunosc,Mărimea razei de aggro variază uneori în funcție de facțiune și de con și poate fi sferică în anumite medii.
+facțiune,simplu,Mărimea razei de aggro variază uneori în funcție de facțiune și de con și poate fi sferică în anumite medii.
+sferică,simplu,Mărimea razei de aggro variază uneori în funcție de facțiune și de con și poate fi sferică în anumite medii.
+Teatrul,foarte familiar,"Teatrul a contribuit cu strigăte dramatice, inclusiv cele ale lui Mary Otis Warren."
+contribuit,simplu,"Teatrul a contribuit cu strigăte dramatice, inclusiv cele ale lui Mary Otis Warren."
+dramatice,simplu,"Teatrul a contribuit cu strigăte dramatice, inclusiv cele ale lui Mary Otis Warren."
+stiluri,simplu,"Există, de asemenea, diferite stiluri de editare în sensul cât de îndrăzneți sunt dispuși să fie oamenii."
+editare,simplu,"Există, de asemenea, diferite stiluri de editare în sensul cât de îndrăzneți sunt dispuși să fie oamenii."
+îndrăzneți,simplu,"Există, de asemenea, diferite stiluri de editare în sensul cât de îndrăzneți sunt dispuși să fie oamenii."
+destinate,simplu,"Este clar că este nevoie de o structură diferită a cărților, deoarece acestea sunt destinate să fie (cel puțin în cele din urmă) tipărite și, prin urmare, ar trebui să aibă un stil liniar."
+tipărite,simplu,"Este clar că este nevoie de o structură diferită a cărților, deoarece acestea sunt destinate să fie (cel puțin în cele din urmă) tipărite și, prin urmare, ar trebui să aibă un stil liniar."
+liniar,complex,"Este clar că este nevoie de o structură diferită a cărților, deoarece acestea sunt destinate să fie (cel puțin în cele din urmă) tipărite și, prin urmare, ar trebui să aibă un stil liniar."
+ușoară,foarte familiar,Există o ușoară tendință de atac din partea opusă a halogenului.
+tendință,simplu,Există o ușoară tendință de atac din partea opusă a halogenului.
+opusă,foarte familiar,Există o ușoară tendință de atac din partea opusă a halogenului.
+taxe,foarte familiar,"De asemenea, este posibil să existe taxe de licență separate pentru distribuția de formate de date multimedia brevetate, cum ar fi imaginile GIF, care, dacă nu în fapt, cel puțin din punct de vedere filozofic, încalcă principiile GFDL, împiedicându-vă să utilizați liber imaginea sau fotografia."
+brevetate,complex,"De asemenea, este posibil să existe taxe de licență separate pentru distribuția de formate de date multimedia brevetate, cum ar fi imaginile GIF, care, dacă nu în fapt, cel puțin din punct de vedere filozofic, încalcă principiile GFDL, împiedicându-vă să utilizați liber imaginea sau fotografia."
+filozofic,simplu,"De asemenea, este posibil să existe taxe de licență separate pentru distribuția de formate de date multimedia brevetate, cum ar fi imaginile GIF, care, dacă nu în fapt, cel puțin din punct de vedere filozofic, încalcă principiile GFDL, împiedicându-vă să utilizați liber imaginea sau fotografia."
+limitarea,simplu,"Prin urmare, indiferent cât de mult argou folosiți în limba dvs. maternă, limitarea utilizării argoului în limba franceză (proporțional cu nivelul dvs. de fluență) va limita, de asemenea, cât de mult sunteți tratat cu condescendență și amuzament de către ascultătorii nativi."
+condescendență,complex,"Prin urmare, indiferent cât de mult argou folosiți în limba dvs. maternă, limitarea utilizării argoului în limba franceză (proporțional cu nivelul dvs. de fluență) va limita, de asemenea, cât de mult sunteți tratat cu condescendență și amuzament de către ascultătorii nativi."
+amuzament,foarte familiar,"Prin urmare, indiferent cât de mult argou folosiți în limba dvs. maternă, limitarea utilizării argoului în limba franceză (proporțional cu nivelul dvs. de fluență) va limita, de asemenea, cât de mult sunteți tratat cu condescendență și amuzament de către ascultătorii nativi."
+litigiu,simplu,"Acestea sunt, în principal, linii directoare privind comportamentul administratorilor, dar pot fi utile atunci când aveți un litigiu serios cu administratorii sau când vă adresați comisarilor și unei comisii de arbitraj."
+administratorii,simplu,"Acestea sunt, în principal, linii directoare privind comportamentul administratorilor, dar pot fi utile atunci când aveți un litigiu serios cu administratorii sau când vă adresați comisarilor și unei comisii de arbitraj."
+comisarilor,simplu,"Acestea sunt, în principal, linii directoare privind comportamentul administratorilor, dar pot fi utile atunci când aveți un litigiu serios cu administratorii sau când vă adresați comisarilor și unei comisii de arbitraj."
+pachete,foarte familiar,"Aceste stiluri de pachete nu se descurcă bine împotriva pachetelor cu orice tip de dezorganizare sau control, așa că în prezent nu au parte de prea mult joc."
+pachetelor,foarte familiar,"Aceste stiluri de pachete nu se descurcă bine împotriva pachetelor cu orice tip de dezorganizare sau control, așa că în prezent nu au parte de prea mult joc."
+parte,simplu,"Aceste stiluri de pachete nu se descurcă bine împotriva pachetelor cu orice tip de dezorganizare sau control, așa că în prezent nu au parte de prea mult joc."
+interpretate,simplu,"Aceste diagrame trebuie interpretate ca niște hărți topografice, unde liniile reprezintă curbe de nivel constante."
+topografice,complex,"Aceste diagrame trebuie interpretate ca niște hărți topografice, unde liniile reprezintă curbe de nivel constante."
+constante,simplu,"Aceste diagrame trebuie interpretate ca niște hărți topografice, unde liniile reprezintă curbe de nivel constante."
+interlopă,simplu,"Acestea necesitau bani, iar o nouă lume interlopă a criminalității a apărut pentru a le finanța și a profita de pe urma lor."
+finanța,simplu,"Acestea necesitau bani, iar o nouă lume interlopă a criminalității a apărut pentru a le finanța și a profita de pe urma lor."
+profita,simplu,"Acestea necesitau bani, iar o nouă lume interlopă a criminalității a apărut pentru a le finanța și a profita de pe urma lor."
+capacitățile,simplu,"În general, le este mai bine să își folosească Ne-ul, precum și capacitățile de raționament ale lui Ti, pentru a afla adevărul, decât să se bazeze pe tradițiile Si."
+afla,foarte familiar,"În general, le este mai bine să își folosească Ne-ul, precum și capacitățile de raționament ale lui Ti, pentru a afla adevărul, decât să se bazeze pe tradițiile Si."
+bazeze,simplu,"În general, le este mai bine să își folosească Ne-ul, precum și capacitățile de raționament ale lui Ti, pentru a afla adevărul, decât să se bazeze pe tradițiile Si."
+absorbția,simplu,"Acestea transformă energia solară în energie chimică prin absorbția luminii și utilizarea acesteia pentru a stimula sinteza compușilor organici, cum ar fi zahărul, din dioxid de carbon și apă."
+luminii,foarte familiar,"Acestea transformă energia solară în energie chimică prin absorbția luminii și utilizarea acesteia pentru a stimula sinteza compușilor organici, cum ar fi zahărul, din dioxid de carbon și apă."
+organici,complex,"Acestea transformă energia solară în energie chimică prin absorbția luminii și utilizarea acesteia pentru a stimula sinteza compușilor organici, cum ar fi zahărul, din dioxid de carbon și apă."
+interferează,simplu,Acestea nu interferează cu gesturile de care magii au nevoie pentru a face vrăji.
+gesturile,simplu,Acestea nu interferează cu gesturile de care magii au nevoie pentru a face vrăji.
+magii,simplu,Acestea nu interferează cu gesturile de care magii au nevoie pentru a face vrăji.
+profeție,simplu,Ei au lăsat în urmă o profeție conform căreia lumea se va sfârși la 21 decembrie 2012 și va avea loc cel de-al cincilea ciclu al lumii.
+avea,foarte familiar,Ei au lăsat în urmă o profeție conform căreia lumea se va sfârși la 21 decembrie 2012 și va avea loc cel de-al cincilea ciclu al lumii.
+cincilea,foarte familiar,Ei au lăsat în urmă o profeție conform căreia lumea se va sfârși la 21 decembrie 2012 și va avea loc cel de-al cincilea ciclu al lumii.
+filmele,foarte familiar,"Au produs peste 90% din filmele de ficțiune din America și și-au distribuit filmele atât la nivel național, cât și internațional."
+distribuit,simplu,"Au produs peste 90% din filmele de ficțiune din America și și-au distribuit filmele atât la nivel național, cât și internațional."
+național,foarte familiar,"Au produs peste 90% din filmele de ficțiune din America și și-au distribuit filmele atât la nivel național, cât și internațional."
+întâmplă,simplu,"Acest lucru se întâmplă tot timpul în visele mele, dar se pare că eu cred că pot face asta cu adevărat, iar visul continuă în mod nelucid."
+pare,simplu,"Acest lucru se întâmplă tot timpul în visele mele, dar se pare că eu cred că pot face asta cu adevărat, iar visul continuă în mod nelucid."
+continuă,foarte familiar,"Acest lucru se întâmplă tot timpul în visele mele, dar se pare că eu cred că pot face asta cu adevărat, iar visul continuă în mod nelucid."
+religioase,simplu,"Aceasta include predarea, practica generală a medicinei, cercetarea medicală, domeniile religioase, antreprenoriatul, munca misionară, munca socială, dezvoltarea comunitară, artele creative, actoria, radiodifuziunea, consultanța, coaching-ul, formarea corporatistă, relațiile publice, consilierea, publicitatea și marketingul."
+creative,simplu,"Aceasta include predarea, practica generală a medicinei, cercetarea medicală, domeniile religioase, antreprenoriatul, munca misionară, munca socială, dezvoltarea comunitară, artele creative, actoria, radiodifuziunea, consultanța, coaching-ul, formarea corporatistă, relațiile publice, consilierea, publicitatea și marketingul."
+corporatistă,simplu,"Aceasta include predarea, practica generală a medicinei, cercetarea medicală, domeniile religioase, antreprenoriatul, munca misionară, munca socială, dezvoltarea comunitară, artele creative, actoria, radiodifuziunea, consultanța, coaching-ul, formarea corporatistă, relațiile publice, consilierea, publicitatea și marketingul."
+aseamănă,simplu,"Acest lucru este FOARTE, FOARTE diferit de modelele pasive de citire a textului într-o manieră liniară de mare viteză, care se aseamănă cu încercarea de a forța creierul să găsească un sens la o mie de gloanțe care trec cu viteză."
+gloanțe,foarte familiar,"Acest lucru este FOARTE, FOARTE diferit de modelele pasive de citire a textului într-o manieră liniară de mare viteză, care se aseamănă cu încercarea de a forța creierul să găsească un sens la o mie de gloanțe care trec cu viteză."
+trec,foarte familiar,"Acest lucru este FOARTE, FOARTE diferit de modelele pasive de citire a textului într-o manieră liniară de mare viteză, care se aseamănă cu încercarea de a forța creierul să găsească un sens la o mie de gloanțe care trec cu viteză."
+realizări,simplu,Aceasta este doar una dintre numeroasele realizări ale ingineriei care ne-au permis să cuantificăm și să înțelegem gena umană și modul în care aceasta este legată de nutriție.
+ingineriei,simplu,Aceasta este doar una dintre numeroasele realizări ale ingineriei care ne-au permis să cuantificăm și să înțelegem gena umană și modul în care aceasta este legată de nutriție.
+cuantificăm,complex,Aceasta este doar una dintre numeroasele realizări ale ingineriei care ne-au permis să cuantificăm și să înțelegem gena umană și modul în care aceasta este legată de nutriție.
+deosebit,simplu,"Acest lucru este deosebit de util în cazuri precum cele în care se încearcă modificarea suprafeței nanomaterialelor pentru a crește afinitatea, reactivitatea sau compatibilitatea."
+modificarea,simplu,"Acest lucru este deosebit de util în cazuri precum cele în care se încearcă modificarea suprafeței nanomaterialelor pentru a crește afinitatea, reactivitatea sau compatibilitatea."
+nanomaterialelor,nu cunosc,"Acest lucru este deosebit de util în cazuri precum cele în care se încearcă modificarea suprafeței nanomaterialelor pentru a crește afinitatea, reactivitatea sau compatibilitatea."
+teologii,simplu,Această problemă a agitat teologii și filozofii timp de secole și nu a fost niciodată rezolvată în mod satisfăcător.
+filozofii,simplu,Această problemă a agitat teologii și filozofii timp de secole și nu a fost niciodată rezolvată în mod satisfăcător.
+satisfăcător,simplu,Această problemă a agitat teologii și filozofii timp de secole și nu a fost niciodată rezolvată în mod satisfăcător.
+revoluție,simplu,"Această revoluție a fost alimentată de utilizarea de noi tehnologii agricole, cum ar fi semănătoarea și îngrășămintele îmbunătățite."
+agricole,simplu,"Această revoluție a fost alimentată de utilizarea de noi tehnologii agricole, cum ar fi semănătoarea și îngrășămintele îmbunătățite."
+îmbunătățite,simplu,"Această revoluție a fost alimentată de utilizarea de noi tehnologii agricole, cum ar fi semănătoarea și îngrășămintele îmbunătățite."
+transformare,simplu,Această transformare apare atunci când o celulă vie nepatogenă preia o bucată de ADN purtătoare a alelei de patogenitate.
+apare,foarte familiar,Această transformare apare atunci când o celulă vie nepatogenă preia o bucată de ADN purtătoare a alelei de patogenitate.
+nepatogenă,nu cunosc,Această transformare apare atunci când o celulă vie nepatogenă preia o bucată de ADN purtătoare a alelei de patogenitate.
+lovitură,foarte familiar,Aceasta a fost o lovitură devastatoare pentru japonezi și este considerată punctul de cotitură al Războiului din Pacific.
+devastatoare,simplu,Aceasta a fost o lovitură devastatoare pentru japonezi și este considerată punctul de cotitură al Războiului din Pacific.
+cotitură,simplu,Aceasta a fost o lovitură devastatoare pentru japonezi și este considerată punctul de cotitură al Războiului din Pacific.
+orfan,foarte familiar,"Deși Harry va deveni o excepție, există un alt elev, de asemenea orfan și vrăjitor talentat, căruia Dumbledore i-a acordat și el o atenție sporită, deși nu în același mod ca în cazul lui Harry."
+talentat,foarte familiar,"Deși Harry va deveni o excepție, există un alt elev, de asemenea orfan și vrăjitor talentat, căruia Dumbledore i-a acordat și el o atenție sporită, deși nu în același mod ca în cazul lui Harry."
+acordat,simplu,"Deși Harry va deveni o excepție, există un alt elev, de asemenea orfan și vrăjitor talentat, căruia Dumbledore i-a acordat și el o atenție sporită, deși nu în același mod ca în cazul lui Harry."
+atenua,simplu,"Pentru a atenua problemele de indexare, expresia sizeof() este utilizată în adesea la codificarea buclelor care procesează array-uri."
+adesea,foarte familiar,"Pentru a atenua problemele de indexare, expresia sizeof() este utilizată în adesea la codificarea buclelor care procesează array-uri."
+codificarea,complex,"Pentru a atenua problemele de indexare, expresia sizeof() este utilizată în adesea la codificarea buclelor care procesează array-uri."
+urbanizată,simplu,A trăi complet în acest mod într-o societate urbanizată și industrială înseamnă a te retrage la periferie.
+retrage,simplu,A trăi complet în acest mod într-o societate urbanizată și industrială înseamnă a te retrage la periferie.
+periferie,simplu,A trăi complet în acest mod într-o societate urbanizată și industrială înseamnă a te retrage la periferie.
+matematice,simplu,"Pentru a se familiariza cu demonstrația matematică și, de asemenea, cu unele concepte matematice de bază, cititorii pot citi wikibook Demonstrație matematică."
+cititorii,foarte familiar,"Pentru a se familiariza cu demonstrația matematică și, de asemenea, cu unele concepte matematice de bază, cititorii pot citi wikibook Demonstrație matematică."
+wikibook,simplu,"Pentru a se familiariza cu demonstrația matematică și, de asemenea, cu unele concepte matematice de bază, cititorii pot citi wikibook Demonstrație matematică."
+remediate,simplu,"Cu excepția cazului în care există probleme evidente care nu vor putea fi remediate, timpul dumneavoastră ar fi mai bine petrecut pentru a îndruma noii contribuitori și pentru a încerca să ajutați la curățarea noilor lucrări, chiar dacă lucrarea reprezintă în prezent o încălcare flagrantă a procedurilor actuale."
+contribuitori,simplu,"Cu excepția cazului în care există probleme evidente care nu vor putea fi remediate, timpul dumneavoastră ar fi mai bine petrecut pentru a îndruma noii contribuitori și pentru a încerca să ajutați la curățarea noilor lucrări, chiar dacă lucrarea reprezintă în prezent o încălcare flagrantă a procedurilor actuale."
+flagrantă,simplu,"Cu excepția cazului în care există probleme evidente care nu vor putea fi remediate, timpul dumneavoastră ar fi mai bine petrecut pentru a îndruma noii contribuitori și pentru a încerca să ajutați la curățarea noilor lucrări, chiar dacă lucrarea reprezintă în prezent o încălcare flagrantă a procedurilor actuale."
+știință,foarte familiar,"Până la începutul secolului al XIX-lea, naturaliștii și oamenii de știință au observat diferențe esențiale între compușii care proveneau din ființe vii și cei care nu proveneau din ființe vii."
+observat,simplu,"Până la începutul secolului al XIX-lea, naturaliștii și oamenii de știință au observat diferențe esențiale între compușii care proveneau din ființe vii și cei care nu proveneau din ființe vii."
+esențiale,simplu,"Până la începutul secolului al XIX-lea, naturaliștii și oamenii de știință au observat diferențe esențiale între compușii care proveneau din ființe vii și cei care nu proveneau din ființe vii."
+acorduri,simplu,"Folosește aceleași forme de acorduri ca și Open E, dar este mai ușor pentru gâtul chitarei, deoarece corzile sunt dezacordate, reducând tensiunea."
+chitarei,foarte familiar,"Folosește aceleași forme de acorduri ca și Open E, dar este mai ușor pentru gâtul chitarei, deoarece corzile sunt dezacordate, reducând tensiunea."
+reducând,simplu,"Folosește aceleași forme de acorduri ca și Open E, dar este mai ușor pentru gâtul chitarei, deoarece corzile sunt dezacordate, reducând tensiunea."
+constant,simplu,"Stăpânii războiului din numeroasele provincii ale Chinei se dușmăneau în mod constant, iar guvernul central era slab și descentralizat, neputând face nimic pentru a opri conflictul."
+central,simplu,"Stăpânii războiului din numeroasele provincii ale Chinei se dușmăneau în mod constant, iar guvernul central era slab și descentralizat, neputând face nimic pentru a opri conflictul."
+neputând,simplu,"Stăpânii războiului din numeroasele provincii ale Chinei se dușmăneau în mod constant, iar guvernul central era slab și descentralizat, neputând face nimic pentru a opri conflictul."
+câștiga,foarte familiar,"Cu toate acestea, Washingtonul a devenit foarte îngrijorat de faptul că partidele comuniste locale ar putea câștiga puterea în Franța, Italia și Grecia la sfârșitul anilor 1940, având în vedere starea precară a economiei europene postbelice și apropierea de Uniuniea Sovietică."
+postbelice,simplu,"Cu toate acestea, Washingtonul a devenit foarte îngrijorat de faptul că partidele comuniste locale ar putea câștiga puterea în Franța, Italia și Grecia la sfârșitul anilor 1940, având în vedere starea precară a economiei europene postbelice și apropierea de Uniuniea Sovietică."
+apropierea,foarte familiar,"Cu toate acestea, Washingtonul a devenit foarte îngrijorat de faptul că partidele comuniste locale ar putea câștiga puterea în Franța, Italia și Grecia la sfârșitul anilor 1940, având în vedere starea precară a economiei europene postbelice și apropierea de Uniuniea Sovietică."
+scuipă,foarte familiar,"Urmăriți câinele pentru a vă asigura că nu scuipă pastila după ce a mâncat recompensa (dacă se întâmplă acest lucru, va trebui să forțați pastila, așa cum este descris mai jos)."
+pastila,foarte familiar,"Urmăriți câinele pentru a vă asigura că nu scuipă pastila după ce a mâncat recompensa (dacă se întâmplă acest lucru, va trebui să forțați pastila, așa cum este descris mai jos)."
+descris,simplu,"Urmăriți câinele pentru a vă asigura că nu scuipă pastila după ce a mâncat recompensa (dacă se întâmplă acest lucru, va trebui să forțați pastila, așa cum este descris mai jos)."
+cunoașterea,simplu,"Am discutat deja despre unele dintre acestea, însă cunoașterea seturilor adaugă o nouă definiție pentru fiecare dintre următoarele idei."
+adaugă,foarte familiar,"Am discutat deja despre unele dintre acestea, însă cunoașterea seturilor adaugă o nouă definiție pentru fiecare dintre următoarele idei."
+definiție,foarte familiar,"Am discutat deja despre unele dintre acestea, însă cunoașterea seturilor adaugă o nouă definiție pentru fiecare dintre următoarele idei."
+principal,foarte familiar,Recomandăm această licență în principal pentru lucrări al căror scop este de instruire sau de referință.
+căror,simplu,Recomandăm această licență în principal pentru lucrări al căror scop este de instruire sau de referință.
+instruire,simplu,Recomandăm această licență în principal pentru lucrări al căror scop este de instruire sau de referință.
+explica,foarte familiar,Vom începe prin a explica cum funcționează visul lucid din punct de vedere biologic.
+visul,foarte familiar,Vom începe prin a explica cum funcționează visul lucid din punct de vedere biologic.
+lucid,simplu,Vom începe prin a explica cum funcționează visul lucid din punct de vedere biologic.
+aportul,simplu,"Pierderea în greutate necesită ca aportul de calorii să fie mai mic decât producția de calorii, deși niciuna dintre acestea nu trebuie să fie făcută la extrem."
+niciuna,foarte familiar,"Pierderea în greutate necesită ca aportul de calorii să fie mai mic decât producția de calorii, deși niciuna dintre acestea nu trebuie să fie făcută la extrem."
+extrem,simplu,"Pierderea în greutate necesită ca aportul de calorii să fie mai mic decât producția de calorii, deși niciuna dintre acestea nu trebuie să fie făcută la extrem."
+terasa,foarte familiar,"Când ajung la destinație, cu terasa umbrită încă la vedere, desfășor prosoapele și mă întind confortabil pe scaunul înclinat.>>"
+umbrită,foarte familiar,"Când ajung la destinație, cu terasa umbrită încă la vedere, desfășor prosoapele și mă întind confortabil pe scaunul înclinat.>>"
+desfășor,simplu,"Când ajung la destinație, cu terasa umbrită încă la vedere, desfășor prosoapele și mă întind confortabil pe scaunul înclinat.>>"
+susține,simplu,"Atunci când un text nu susține această regulă, chiar și un elev sârguincios este nevoit să repete inutil materialul."
+sârguincios,simplu,"Atunci când un text nu susține această regulă, chiar și un elev sârguincios este nevoit să repete inutil materialul."
+inutil,simplu,"Atunci când un text nu susține această regulă, chiar și un elev sârguincios este nevoit să repete inutil materialul."
+scorbutul,nu cunosc,"Cu toate acestea, faptul că scorbutul este cauzat de lipsa vitaminei c a fost descoperit abia în 1932."
+cauzat,simplu,"Cu toate acestea, faptul că scorbutul este cauzat de lipsa vitaminei c a fost descoperit abia în 1932."
+vitaminei,foarte familiar,"Cu toate acestea, faptul că scorbutul este cauzat de lipsa vitaminei c a fost descoperit abia în 1932."
+Concepeți,simplu,"Concepeți mai multe experimente pentru a vă testa ipotezele, folosind o lanternă pentru a dovedi că, într-adevăr, nu sunteți orb."
+folosind,foarte familiar,"Concepeți mai multe experimente pentru a vă testa ipotezele, folosind o lanternă pentru a dovedi că, într-adevăr, nu sunteți orb."
+lanternă,foarte familiar,"Concepeți mai multe experimente pentru a vă testa ipotezele, folosind o lanternă pentru a dovedi că, într-adevăr, nu sunteți orb."
+inserați,simplu,"Puteți extrage un singur document dintr-o astfel de colecție și îl puteți distribui individual în temeiul prezentei licențe, cu condiția să inserați o copie a prezentei licențe în documentul extras și să respectați prezenta licență în toate celelalte privințe în ceea ce privește copierea textuală a documentului respectiv."
+copie,simplu,"Puteți extrage un singur document dintr-o astfel de colecție și îl puteți distribui individual în temeiul prezentei licențe, cu condiția să inserați o copie a prezentei licențe în documentul extras și să respectați prezenta licență în toate celelalte privințe în ceea ce privește copierea textuală a documentului respectiv."
+extras,simplu,"Puteți extrage un singur document dintr-o astfel de colecție și îl puteți distribui individual în temeiul prezentei licențe, cu condiția să inserați o copie a prezentei licențe în documentul extras și să respectați prezenta licență în toate celelalte privințe în ceea ce privește copierea textuală a documentului respectiv."
+juridice,simplu,"Acordurile dvs. juridice ar trebui să treacă prin mai multe iterații în procesul de redactare, fiecare iterație simplificând termenii și îmbunătățind lizibilitatea și utilizabilitatea acestora."
+redactare,simplu,"Acordurile dvs. juridice ar trebui să treacă prin mai multe iterații în procesul de redactare, fiecare iterație simplificând termenii și îmbunătățind lizibilitatea și utilizabilitatea acestora."
+îmbunătățind,simplu,"Acordurile dvs. juridice ar trebui să treacă prin mai multe iterații în procesul de redactare, fiecare iterație simplificând termenii și îmbunătățind lizibilitatea și utilizabilitatea acestora."
+conjugarea,simplu,pentru că conjugarea specifică a unui verb indică de obicei care este persoana subiectului.
+verb,simplu,pentru că conjugarea specifică a unui verb indică de obicei care este persoana subiectului.
+indică,simplu,pentru că conjugarea specifică a unui verb indică de obicei care este persoana subiectului.

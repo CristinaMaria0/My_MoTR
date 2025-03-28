@@ -1,0 +1,73 @@
+pearsonr (reading time, frequency) = -0.49689602847046843, pvalue=0.0000
+
+PearsonR (complexity, reading time):
+    Pearson correlation coefficient (victor): 0.2966, p-value: 0.0000
+    Pearson correlation coefficient (iulia): 0.1602, p-value: 0.0007
+    Pearson correlation coefficient (petru): 0.2705, p-value: 0.0000
+    Pearson correlation coefficient (stadio88): 0.2556, p-value: 0.0000
+    Pearson correlation coefficient (user): 0.1635, p-value: 0.0006
+    Pearson correlation coefficient (sergiu): 0.2740, p-value: 0.0000
+
+PearsonR (avarege_complexity, reading time):
+Pentru userii: ['victor', 'iulia']: 0.2666, p-value: 0.0000
+Pentru userii: ['victor', 'petru']: 0.3161, p-value: 0.0000
+Pentru userii: ['victor', 'stadio88']: 0.3132, p-value: 0.0000
+Pentru userii: ['victor', 'user']: 0.2556, p-value: 0.0000
+Pentru userii: ['victor', 'sergiu']: 0.3155, p-value: 0.0000
+Pentru userii: ['iulia', 'petru']: 0.2616, p-value: 0.0000
+Pentru userii: ['iulia', 'stadio88']: 0.2454, p-value: 0.0000
+Pentru userii: ['iulia', 'user']: 0.1893, p-value: 0.0001
+Pentru userii: ['iulia', 'sergiu']: 0.2641, p-value: 0.0000
+Pentru userii: ['petru', 'stadio88']: 0.2966, p-value: 0.0000
+Pentru userii: ['petru', 'user']: 0.2451, p-value: 0.0000
+Pentru userii: ['petru', 'sergiu']: 0.3107, p-value: 0.0000
+Pentru userii: ['stadio88', 'user']: 0.2337, p-value: 0.0000
+Pentru userii: ['stadio88', 'sergiu'] :0.2890, p-value: 0.0000
+Pentru userii: ['user', 'sergiu']: 0.2453, p-value: 0.0000
+Pentru userii: ['victor', 'iulia', 'petru']: 0.3041, p-value: 0.0000
+Pentru userii: ['victor', 'iulia', 'stadio88']: 0.2916, p-value: 0.0000
+Pentru userii: ['victor', 'iulia', 'user']: 0.2495, p-value: 0.0000
+Pentru userii: ['victor', 'iulia', 'sergiu']: 0.3030, p-value: 0.0000
+Pentru userii: ['victor', 'petru', 'stadio88']: 0.3237, p-value: 0.0000
+Pentru userii: ['victor', 'petru', 'user']: 0.2843, p-value: 0.0000
+Pentru userii: ['victor', 'petru', 'sergiu']: 0.3303, p-value: 0.0000
+Pentru userii: ['victor', 'stadio88', 'user']: 0.2790, p-value: 0.0000
+Pentru userii: ['victor', 'stadio88', 'sergiu']: 0.3159, p-value: 0.0000
+Pentru userii: ['victor', 'user', 'sergiu']: 0.2810, p-value: 0.0000
+Pentru userii: ['iulia', 'petru', 'stadio88']: 0.2892, p-value: 0.0000
+Pentru userii: ['iulia', 'petru', 'user']: 0.2504, p-value: 0.0000
+Pentru userii: ['iulia', 'petru', 'sergiu']: 0.3004, p-value: 0.0000
+Pentru userii: ['iulia', 'stadio88', 'user']: 0.2339, p-value: 0.0000
+Pentru userii: ['iulia', 'stadio88', 'sergiu']: 0.2849, p-value: 0.0000
+Pentru userii: ['iulia', 'user', 'sergiu']: 0.2510, p-value: 0.0000
+Pentru userii: ['petru', 'stadio88', 'user']: 0.2694, p-value: 0.0000
+Pentru userii: ['petru', 'stadio88', 'sergiu']: 0.3134, p-value: 0.0000
+Pentru userii: ['petru', 'user', 'sergiu']: 0.2810, p-value: 0.0000
+Pentru userii: ['stadio88', 'user', 'sergiu']: 0.2636, p-value: 0.0000
+Pentru userii: ['victor', 'iulia', 'petru', 'stadio88']: 0.3144, p-value: 0.0000
+Pentru userii: ['victor', 'iulia', 'petru', 'user']: 0.2828, p-value: 0.0000
+Pentru userii: ['victor', 'iulia', 'petru', 'sergiu']: 0.3213, p-value: 0.0000
+Pentru userii: ['victor', 'iulia', 'stadio88', 'user']: 0.2691, p-value: 0.0000
+Pentru userii: ['victor', 'iulia', 'stadio88', 'sergiu']: 0.3097, p-value: 0.0000
+Pentru userii: ['victor', 'iulia', 'user', 'sergiu']: 0.2813, p-value: 0.0000
+Pentru userii: ['victor', 'petru', 'stadio88', 'user']: 0.2955, p-value: 0.0000
+Pentru userii: ['victor', 'petru', 'stadio88', 'sergiu']: 0.3298, p-value: 0.0000
+Pentru userii: ['victor', 'petru', 'user', 'sergiu']: 0.3026, p-value: 0.0000
+Pentru userii: ['victor', 'stadio88', 'user', 'sergiu']: 0.2885, p-value: 0.0000
+Pentru userii: ['iulia', 'petru', 'stadio88', 'user']: 0.2702, p-value: 0.0000
+Pentru userii: ['iulia', 'petru', 'stadio88', 'sergiu']: 0.3082, p-value: 0.0000
+Pentru userii: ['iulia', 'petru', 'user', 'sergiu']: 0.2812, p-value: 0.0000
+Pentru userii: ['iulia', 'stadio88', 'user', 'sergiu']: 0.2673, p-value: 0.0000
+Pentru userii: ['petru', 'stadio88', 'user', 'sergiu']: 0.2891, p-value: 0.0000
+Pentru userii: ['victor', 'iulia', 'petru', 'stadio88', 'user']: 0.2928, p-value: 0.0000
+Pentru userii: ['victor', 'iulia', 'petru', 'stadio88', 'sergiu']: 0.3241, p-value: 0.0000
+Pentru userii: ['victor', 'iulia', 'petru', 'user', 'sergiu']: 0.3008, p-value: 0.0000
+Pentru userii: ['victor', 'iulia', 'stadio88', 'user', 'sergiu']: 0.2892, p-value: 0.0000
+Pentru userii: ['victor', 'petru', 'stadio88', 'user', 'sergiu']: 0.3062, p-value: 0.0000
+Pentru userii: ['iulia', 'petru', 'stadio88', 'user', 'sergiu']: 0.2894, p-value: 0.0000
+
+Pentru userii: ['victor', 'iulia', 'petru', 'stadio88', 'user', 'sergiu']: 0.3049, p-value: 0.0000
+Max correlation: 0.3302607314070348 for combination: ['victor', 'petru', 'sergiu']
+Min correlation: 0.1893348594637871 for combination: ['iulia', 'user']
+
+Inter-rater reliability: 0.412

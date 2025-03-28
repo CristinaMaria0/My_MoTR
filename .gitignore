@@ -1,0 +1,52 @@
+.DS_Store
+node_modules/
+package-lock.json
+/dist
+__pycache__
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+*.RData
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# models
+bayesian_models_cor/
+bayesian_models_lc/
+bayesian_models_surp/
+provo_temp/
+reading_measures/
+Workflow/
+divided/
+preprocessed_trialData/
+metadata/
+processed_trial/
+preprocessed_trialData/
+fixations/
+reading_measures/
+raw_data/
+associations/
+corrected_divided/
+temp/
+review_response/
+provo_cleaned_raw_fixation_not_merged/
+BSPR_f150/
+provo_divided_by_reader_all/
+provo_f160/
+bayesian_models/
+provo_rawdata/
+archives/

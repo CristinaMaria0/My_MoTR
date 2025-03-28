@@ -1,0 +1,11 @@
+services:
+  frontend:
+    image: cristinamaria0/motr:latest
+    ports:
+      - "3000:3000"
+      - "3001:3001"
+    volumes:
+      - ./MoTR/run_motr_in_magpie/attachment/outputs:/usr/src/app/outputs
+    environment:
+      - NODE_ENV=production
+    tty: true

@@ -127,6 +127,7 @@
 <script>
 // Load data from csv files as javascript arrays with objects
 import localCoherence_list1 from '../trials/localCoherence_list1.tsv';
+import propozitii_trial from '../trials/propozitii_trial.tsv';
 
 import _ from 'lodash';
 
@@ -137,10 +138,10 @@ export default {
     const lists = localCoherence_list1;
     const shuffledItems = _.shuffle(lists); 
     const selectedItems=_.sampleSize(shuffledItems, 3); //sample size 
-    //const selectedItems = chosenItems
-    
-    const updatedTrials = selectedItems.map((trial, trialIndex) => {
-      const words = trial.text.split(" ");
+    const trial_list= propozitii_trial;
+    const trials=_.concat (trial_list, selectedItems); //concatenate the two lists
+    const updatedTrials = trials.map((trial, trialIndex) => {
+      const words = trial.text.split("  ");
       return {
         ...trial,
         response_options: _.shuffle(`${trial.response_true}|${trial.response_distractors}`.replace(/ ?["]+/g, "").split("|")),
@@ -255,6 +256,7 @@ export default {
           console.log("🧠 Final CSV ready to save:", filename);
 
           fetch('http://localhost:3001/save-results', {
+            // fetch('https://csv-server-production.up.railway.app/save-results', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ csv: csvContent, filename })
@@ -324,7 +326,7 @@ export default {
     width: 100%;
     height: auto;
     font-size: 18px;
-    line-height: 40px;
+    line-height: 55px;
   }
   .debugResults{
     width: 100%;

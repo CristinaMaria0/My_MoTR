@@ -55,12 +55,21 @@
 
 
 <template v-if="trials && trials.length">
-  <Screen
-    v-for="(trial, i) in trials"
-    :key="i"
-    class="main_screen"
-    :progress="i / trials.length"
-  >
+  <template v-for="(trial, i) in trials">
+    
+    <Screen v-if ="trial.isSeparator"
+        class="main_screen"
+        :progress="i / trials.length">
+      <Slide>
+        <div style="text-align: center; padding: 2em;">
+        <h2>Acum începe experimentul.</h2>
+        <button @click="$magpie.nextScreen()">Continuă</button>
+        </div>
+      </Slide>
+    </Screen>
+    <Screen v-else 
+        class="main_screen"
+        :progress="i / trials.length">  
       <Slide>
         <div class="oval-cursor"></div>
         
@@ -115,6 +124,7 @@
         </Slide>
       </Screen>
    </template>
+  </template>
     <!--  Final screen -->
     <Screen class="download-screen">
       <div class="download-wrapper">
@@ -138,9 +148,21 @@ export default {
     const lists = localCoherence_list1;
     const shuffledItems = _.shuffle(lists); 
     const selectedItems=_.sampleSize(shuffledItems, 3); //sample size 
+    const mainTrials=selectedItems.map((trial)=>({...trial, isIntro: false})); //add isIntro property to each trial
+    
     const trial_list= propozitii_trial;
-    const trials=_.concat (trial_list, selectedItems); //concatenate the two lists
+    const introTrials=trial_list.map((trial)=>({...trial, isIntro: true})); //add isIntro property to each trial
+
+    const startExperimentScreen = { isSeparator: true };
+    // const trials=_.concat (trial_list, selectedItems); //concatenate the two lists
+    const trials=[...introTrials, startExperimentScreen, ...mainTrials]; 
+
+
     const updatedTrials = trials.map((trial, trialIndex) => {
+      if (trial.isSeparator) {
+        return trial; // Don't touch the separator, just return as-is
+      }
+
       const words = trial.text.split("  ");
       return {
         ...trial,

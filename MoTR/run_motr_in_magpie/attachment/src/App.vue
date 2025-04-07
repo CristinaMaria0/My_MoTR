@@ -53,87 +53,76 @@
   </button>
 </Screen>
 
-
 <template v-if="trials && trials.length">
-  <template v-for="(trial, i) in trials">
-    
-    <Screen v-if ="trial.isSeparator"
-        class="main_screen"
-        :progress="i / trials.length">
-      <Slide>
-        <div style="text-align: center; padding: 2em;">
-        <h2>Acum începe experimentul.</h2>
-        <button @click="$magpie.nextScreen()">Continuă</button>
-        </div>
-      </Slide>
-    </Screen>
-    <Screen v-else 
-        class="main_screen"
-        :progress="i / trials.length">  
-      <Slide>
-        <div class="oval-cursor"></div>
-        
-        <template>
-          <div 
-            v-if="showFirstDiv" 
-            class="readingText" 
-            @mousemove="moveCursor" 
-            @mouseleave="changeBack"
-          >
-          <span
-              v-for="(wordObj, index) in trial.words"
-              :key="index"
-              :data-index="index"
-              :data-sentence-index="wordObj.sentenceIndex"
-            >
-              {{ wordObj.word }}
-            </span>
-          </div>
-
-          <div class="blurry-layer" style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;"> 
-            {{ trial.text }}
-          </div>
-        </template>
-          <button v-if="showFirstDiv" style= "bottom:40%; transform: translate(-50%, -50%)" @click="toggleDivs" :disabled="!isCursorMoving">
-          Done
-          </button>
-
-          <div v-else style = "position:absolute; bottom:15%; text-align: center; width: 100%; min-width: -webkit-fill-available;" >
-            <template>
-              <form>
-                <!-- comprehension questions and the response options -->
-                <div>{{ trial.question.replace(/ ?["]+/g, '') }}</div>
-                <template v-for='(word, index) of trial.response_options'>
-                  <input 
-                  :id="'opt_'+index" 
-                  type="radio" 
-                  :value="word" 
-                  name="opt" 
-                  v-model="$magpie.measurements.response"/>{{ word }}<br/>
-                </template>
-              </form>
-            </template>
-          </div>
-          
-          <button v-if="$magpie.measurements.response" 
-          style="transform: translate(-50%, -50%)" 
-          @click="toggleDivs(); 
-          $magpie.saveAndNextScreen()">
-            Next
-          </button>
-        </Slide>
-      </Screen>
+   <Screen
+     v-for="(trial, i) in trials"
+     :key="i"
+     class="main_screen"
+     :progress="i / trials.length"
+   >
+       <Slide>
+         <div class="oval-cursor"></div>
+ 
+         <template>
+           <div 
+             v-if="showFirstDiv" 
+             class="readingText" 
+             @mousemove="moveCursor" 
+             @mouseleave="changeBack"
+           >
+           <span
+               v-for="(wordObj, index) in trial.words"
+               :key="index"
+               :data-index="index"
+               :data-sentence-index="wordObj.sentenceIndex"
+             >
+               {{ wordObj.word }}
+             </span>
+           </div>
+ 
+           <div class="blurry-layer" style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;"> 
+             {{ trial.text }}
+           </div>
+         </template>
+           <button v-if="showFirstDiv" style= "bottom:40%; transform: translate(-50%, -50%)" @click="toggleDivs" :disabled="!isCursorMoving">
+           Done
+           </button>
+ 
+           <div v-else style = "position:absolute; bottom:15%; text-align: center; width: 100%; min-width: -webkit-fill-available;" >
+             <template>
+               <form>
+                 <!-- comprehension questions and the response options -->
+                 <div>{{ trial.question.replace(/ ?["]+/g, '') }}</div>
+                 <template v-for='(word, index) of trial.response_options'>
+                   <input 
+                   :id="'opt_'+index" 
+                   type="radio" 
+                   :value="word" 
+                   name="opt" 
+                   v-model="$magpie.measurements.response"/>{{ word }}<br/>
+                 </template>
+               </form>
+             </template>
+           </div>
+ 
+           <button v-if="$magpie.measurements.response" 
+           style="transform: translate(-50%, -50%)" 
+           @click="toggleDivs(); 
+           $magpie.saveAndNextScreen()">
+             Next
+           </button>
+         </Slide>
+       </Screen>
+    </template>
+     <!--  Final screen -->
+     <Screen class="download-screen">
+       <div class="download-wrapper">
+         <p class="download-message">{{ downloadMessage }}</p>
+         <button @click="saveCsvToVolume">Save Results</button>
+       </div>
+     </Screen>
+   </Experiment>
    </template>
-  </template>
-    <!--  Final screen -->
-    <Screen class="download-screen">
-      <div class="download-wrapper">
-        <p class="download-message">{{ downloadMessage }}</p>
-        <button @click="saveCsvToVolume">Save Results</button>
-      </div>
-    </Screen>
-  </Experiment>
-  </template>
 <script>
 // Load data from csv files as javascript arrays with objects
 import localCoherence_list1 from '../trials/localCoherence_list1.tsv';
@@ -148,14 +137,12 @@ export default {
     const lists = localCoherence_list1;
     const shuffledItems = _.shuffle(lists); 
     const selectedItems=_.sampleSize(shuffledItems, 3); //sample size 
-    const mainTrials=selectedItems.map((trial)=>({...trial, isIntro: false})); //add isIntro property to each trial
     
     const trial_list= propozitii_trial;
-    const introTrials=trial_list.map((trial)=>({...trial, isIntro: true})); //add isIntro property to each trial
 
-    const startExperimentScreen = { isSeparator: true };
-    // const trials=_.concat (trial_list, selectedItems); //concatenate the two lists
-    const trials=[...introTrials, startExperimentScreen, ...mainTrials]; 
+    // const startExperimentScreen = { isSeparator: true };
+    const trials=_.concat (trial_list, selectedItems); //concatenate the two lists
+    //const trials=[...trial_list, ...selectedItems]; 
 
 
     const updatedTrials = trials.map((trial, trialIndex) => {
@@ -163,7 +150,9 @@ export default {
         return trial; // Don't touch the separator, just return as-is
       }
 
-      const words = trial.text.split("  ");
+      // const words = trial.text.split("  ");
+      const words = trial.text.trim().split(/\s+/);
+
       return {
         ...trial,
         response_options: _.shuffle(`${trial.response_true}|${trial.response_distractors}`.replace(/ ?["]+/g, "").split("|")),
@@ -171,6 +160,7 @@ export default {
         words: words.map((word, wordIndex) => ({
           word: word,
           sentenceIndex: trial.index_prop, // Store the sentence index for each word
+          experiment:trial.experiment,
           }))
         };
       });
@@ -215,6 +205,7 @@ export default {
             // Find the trial (sentence) with the matching sentence index
             const currentTrial = this.trials.find(trial => trial.words.some(wordObj => wordObj.sentenceIndex === parseInt(sentenceIndex)));
             $magpie.addTrialData({
+              experiment: currentTrial.experiment,
               sentenceIndex: sentenceIndex,
               Index: this.currentIndex,
               Word: currentElement.innerHTML,

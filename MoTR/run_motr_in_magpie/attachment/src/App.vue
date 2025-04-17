@@ -115,12 +115,16 @@
        </Screen>
     </template>
      <!--  Final screen -->
-     <Screen class="download-screen">
+     <!-- <Screen class="download-screen">
        <div class="download-wrapper">
          <p class="download-message">{{ downloadMessage }}</p>
-         <button @click="saveCsvToVolume">Save Results</button>
        </div>
-     </Screen>
+     </Screen> -->
+    <Screen class="download-screen" @hook:mounted="saveCsvToVolume"> 
+      <p class="download-message">{{ downloadMessage }}</p>
+
+    </Screen>
+
    </Experiment>
    </template>
 <script>

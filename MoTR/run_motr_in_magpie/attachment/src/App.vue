@@ -140,12 +140,12 @@ export default {
     
     const lists = localCoherence_list1;
     const shuffledItems = _.shuffle(lists); 
-    const selectedItems=_.sampleSize(shuffledItems, 3); //sample size 
+    // const selectedItems=_.sampleSize(shuffledItems, 3);
     
     const trial_list= propozitii_trial;
 
     // const startExperimentScreen = { isSeparator: true };
-    const trials=_.concat (trial_list, selectedItems); //concatenate the two lists
+    const trials=_.concat (trial_list, shuffledItems); //concatenate the two lists
     //const trials=[...trial_list, ...selectedItems]; 
 
 

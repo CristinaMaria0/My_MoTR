@@ -6,6 +6,7 @@ services:
       - "3001:3001"
     volumes:
       - ./MoTR/run_motr_in_magpie/attachment/outputs:/usr/src/app/outputs
+      - ./config.json:/usr/src/app/dist/config.json
     environment:
       - NODE_ENV=production
     tty: true

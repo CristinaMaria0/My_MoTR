@@ -271,22 +271,26 @@ export default {
           const filename = `${namePart}_${timestamp}.csv`;
 
           console.log("🧠 Final CSV ready to save:", filename);
+          fetch('/config.json')
+            .then(res => res.json())
+            .then(config => {
+              const saveUrl = config.SAVE_RESULTS_URL;
 
-          fetch('http://localhost:3001/save-results', {
-            // fetch('https://csv-server-production.up.railway.app/save-results', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ csv: csvContent, filename })
-          })
-            .then(res => res.text())
-            .then(msg => {
-        console.log('✅ CSV saved:', msg);
-        this.downloadMessage = "✅ Download finished successfully!";
-      })
-      .catch(err => {
-        console.error('❌ Failed to save CSV:', err);
-        this.downloadMessage = "❌ Something went wrong during download. Please try again!";
-      });
+              return fetch(saveUrl, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ csv: csvContent, filename })
+              });
+    })
+    .then(res => res.text())
+    .then(msg => {
+      console.log('✅ CSV saved:', msg);
+      this.downloadMessage = "✅ Download finished successfully!";
+    })
+    .catch(err => {
+      console.error('❌ Failed to save CSV:', err);
+      this.downloadMessage = "❌ Something went wrong during download. Please try again!";
+    });
 },
 
     moveCursor(e) {

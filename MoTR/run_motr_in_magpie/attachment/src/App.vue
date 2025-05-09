@@ -140,8 +140,6 @@ export default {
     
     const lists = localCoherence_list1;
     const shuffledItems = _.shuffle(lists); 
-    // const selectedItems=_.sampleSize(shuffledItems, 3);
-    
     const trial_list= propozitii_trial;
 
     // const startExperimentScreen = { isSeparator: true };

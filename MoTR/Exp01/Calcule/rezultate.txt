@@ -1,0 +1,22 @@
+	Ana_totalReadingTime.csv
+Pearson correlation (Total reading time, Frequency Score):  -0.3550612855305796 0.0
+	Stefania_totalReadingTime.csv
+Pearson correlation (Total reading time, Frequency Score):  -0.43040862731830126 0.0
+	Stefan_totalReadingTime.csv
+Pearson correlation (Total reading time, Frequency Score):  -0.35930403892704876 0.0
+
+
+words_lenght_mapping:
+{
+1: 1-2 letters
+2: 3-4 letters
+3: 5-6 letters
+4: 7-8 letters
+5: 9+ letters
+}
+	Ana_totalReadingTime.csv
+Pearson correlation (Total reading time, Word Length):  0.4307352519247091 0.0
+	Stefania_totalReadingTime.csv
+Pearson correlation (Total reading time, Word Length):  0.45263506166910006 0.0
+	Stefan_totalReadingTime.csv
+Pearson correlation (Total reading time, Word Length):  0.3959031261522741 0.0

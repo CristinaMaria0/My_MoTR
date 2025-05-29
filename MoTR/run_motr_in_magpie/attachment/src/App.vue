@@ -144,10 +144,10 @@ export default {
 
     // const startExperimentScreen = { isSeparator: true };
     const trials=_.concat (trial_list, shuffledItems); //concatenate the two lists
-    //const trials=[...trial_list, ...selectedItems]; 
+    const trialsFew = trials.slice(0, 3); // Take only the first 10 trials for testing 
 
 
-    const updatedTrials = trials.map((trial, trialIndex) => {
+    const updatedTrials = trialsFew.map((trial, trialIndex) => {
       if (trial.isSeparator) {
         return trial; // Don't touch the separator, just return as-is
       }
